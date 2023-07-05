@@ -1,20 +1,4 @@
 clear
-ls
-rm -r * -f
-ls
-clear
-rm .xmake/
-rm .xmake -r
-clear
-ls
-xmake create fart
-ls
-cd fart
-ls
-hx .
-hx xmake.lua
-xmake show -l toolchains
-clear
 xmake help
 xmake help | rg toolchain
 clear
@@ -9997,4 +9981,20 @@ git init
 clear
 git remote add origin https://gitihub.com/Kimhyr/dotfiles.git
 git branch -M main
+git add -A
+git commit -am "."
+git push
+git push -u origin main
+git auth login
+reboot
+git push -u origin main
+clear
+ls
+clear
+gh auth login
+clear
+ls
+ls .config
+ls .config/*/** | rg .git
+clear
 git add -A
