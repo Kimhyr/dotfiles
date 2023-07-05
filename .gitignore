@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.packages.txt
 !.config/
 !.config/foot/
 !.config/foot/**
