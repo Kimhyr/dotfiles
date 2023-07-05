@@ -1,22 +1,4 @@
 clear
-xmake help
-xmake help | rg toolchain
-clear
-ls
-mv src source
-clear
-hx .
-clear
-ls
-xmake
-hx xmake.lua
-clear
-ls
-mv source/main.cpp source/main.cxx
-clear
-ls
-hx .
-clear
 ls
 hx xmake.lua
 make
@@ -9997,4 +9979,22 @@ ls
 ls .config
 ls .config/*/** | rg .git
 clear
+git add -A
+git commit -am "."
+git push -u origin main
+datetimectl
+date
+date now
+date now | humanize
+date now | date humanize
+date now
+clear
+paru
+clear
+exit
+git config --global http.sslVerify false
+clear
+paru -S ca-certificates
+clear
+git remote -v
 git add -A
