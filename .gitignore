@@ -1,0 +1,16 @@
+*
+!.gitignore
+!.config/
+!.config/foot/
+!.config/foot/**
+!.config/helix/
+!.config/helix/**
+!.config/nushell/
+!.config/nushell/**
+.config/nushell/history.txt
+!.config/sway/
+!.config/sway/**
+!.config/systemd/
+!.config/systemd/**
+!.config/zellij/
+!.config/zellij/**
