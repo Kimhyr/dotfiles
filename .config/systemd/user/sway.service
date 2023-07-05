@@ -1,0 +1,11 @@
+[Unit]
+Description=Sway
+After=default.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/k/.config/sway/start.sh
+RemainAfterExit=true
+
+[Install]
+WantedBy=default.target

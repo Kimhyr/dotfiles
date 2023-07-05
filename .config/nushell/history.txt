@@ -1,0 +1,10000 @@
+clear
+ls
+rm -r * -f
+ls
+clear
+rm .xmake/
+rm .xmake -r
+clear
+ls
+xmake create fart
+ls
+cd fart
+ls
+hx .
+hx xmake.lua
+xmake show -l toolchains
+clear
+xmake help
+xmake help | rg toolchain
+clear
+ls
+mv src source
+clear
+hx .
+clear
+ls
+xmake
+hx xmake.lua
+clear
+ls
+mv source/main.cpp source/main.cxx
+clear
+ls
+hx .
+clear
+ls
+hx xmake.lua
+make
+xmake
+hx .
+ls build/
+./build/linux/
+clear
+ls
+hx .
+ls
+ls x86_64/
+cd ..
+xmake run
+cler
+clear
+ls
+hx xmake.lua
+clear
+ls
+hx source/fart.cxxm
+clear
+ls
+make
+xmake
+hx xmake
+hx xmake.lua
+clear
+xmake
+hx xmake.lua
+clear
+xmake
+clear
+ls;
+hx xmake.lua
+clefar
+ls
+clear
+l
+ls
+mv source/fart.cxxm source/fart.cppm
+mv source/main.cxx  source/main.cpp
+clear
+xmake
+clear
+hx .
+clear
+ls
+hx source/fart.cxxm
+hx source/fart.cppm
+xmake
+hx .
+clear
+ls
+cd source
+ls
+mv fart.cppm fart.mpp
+cd ..
+clear
+ls
+hx xmake.lua
+clear
+ls
+hx .
+clefar
+ls
+clear
+hx .
+clear
+xmake
+xmak e-v
+xmake -v
+hx xmake.lua
+clear
+xmake -v
+hx xmake.lua
+xmae
+xmake -v
+clear
+hx .
+clear
+xmake 
+hx .
+xmake
+hx .
+clear
+ls
+hx xmake.lua
+clear
+ls
+hx xmake.lua
+xmake
+hx .
+clear
+xmake
+xmake clean
+xmake
+hx .
+xmake
+clear
+ls
+xmake run
+clear
+hx .
+clear
+ls
+cd ..
+ls
+rm -r xmake
+clear
+ls
+cd hack
+xmake init
+clear
+ls
+cd ..
+ls
+mv hack .hack
+clear
+ls
+xmake create hack
+clear
+ls
+mv .hack hack
+rm -r .xmake 
+cd hack
+clea
+clear
+ls
+clear
+ls
+mv .hacl ..
+mv .hack ..
+clear
+ls
+rm -r *
+xmake hack
+clear
+xmake create hack
+ls
+ls hack
+rm .gitignore
+clear
+ls
+mv hack/* .
+ls
+rm -r hack
+mv src source
+hx xmake.lua
+clear
+xmake
+hx xmake.lua 
+clear
+hx xmake.lua
+xmake
+ls source/
+hx xmake.lua
+clear
+xmake
+clear
+ls
+ls source
+xmake clean
+mv source/main.cpp source/main.cxx
+clear
+xmake
+hx source/fart/fart.mxx
+clear
+ls
+git init
+git branch -M main
+clear
+ls
+hx .
+xmake
+hx .
+xmake
+hx .
+xmake
+clear
+cd Projects/hack
+xmake
+clear
+ls
+xmake
+clear
+ls
+xmake clean
+xmake
+xmake | grep clear
+ls
+cler
+clear
+xmake clean
+hx .
+clear
+xmake
+xmake clean
+xmake
+hx .
+clear
+xmake
+hx .
+clear
+ls
+ls .xmake
+xmake -v
+clear
+ls
+rm -r build
+clear
+xmake
+hx .
+xmake
+clear
+xmake -v
+xmake -v | less
+xmake -v | save file
+clear
+ls
+hx file
+clear
+ls
+clear
+ls
+clear
+sh 'xmake -v > file'
+clear
+ls
+rm file
+xmake -v 
+xmake -v | less
+clear
+ls
+cd source
+ld
+ls
+mv fart/* .
+clar
+clear
+ls
+rm fart
+cd ..
+ls
+xmake clean
+rm -r build/*
+xmake
+clear
+ls
+hx .
+xmake run
+xmak build hack
+xmake build hack
+hx xmake.lua
+clear
+xmake clean
+xmake
+hx xmake.lua
+clear
+ls
+cd sou
+cd source/
+ls
+mv fart.mxx fart.cppm
+mv main.cxx main.cpp
+cd ..
+clear
+xmake -v
+hx .
+clear
+ls
+hx .
+clear
+xmake -v
+hx .
+xmake
+hx .
+clear
+xmake clean
+xmake
+hx .
+xmake
+hx .
+xmake
+clear
+xmake clean
+xmake
+hx xmake.lua
+xmake
+xmake -v
+hx.
+hx .
+hx .
+exit
+clear
+cd Projects/hack
+clear
+xmake
+xmake -v
+hx xmake.lua
+clear
+ls
+cd source/
+ls
+mv fart.cppm fart.mpp
+cd ..
+clear
+xmake clean
+xmake
+hx xmake.lua
+hx .
+hx xmake.lua
+xmake clean
+xmake
+hx .
+xmake -v
+gcc
+clear
+ls
+gcc
+clear
+hx .
+xmake clean
+hx .
+cd source/
+ls
+rmk fart.mpp
+rm -r fart.mpp
+mv main.cpp main.cxx
+clear
+sl
+clear
+ls
+cd ..
+ls
+hx .
+xmake clean
+rm -r build/*
+clear
+ls
+rm -r .xmake build
+clear
+ls
+xmake
+hx xmake.lua
+clear
+ls
+ls source
+hx .
+hx xmake.lua
+clear
+xmake
+hx .
+clear
+ls
+hx xmake.lua
+xmake
+clear
+hx .
+clear
+clear
+xmake
+xmake clean
+hx .
+xmake
+xmkae
+xmake
+clear
+xmake
+xmake clean
+xmake
+xmake run
+xmake
+xmake run
+clear
+xmake
+hx xmake.luaj
+hx xmake.lua
+clear
+hx source/hack.mxx
+hx ~/.conf
+hx ~/.config/helix/languages.toml
+hx .
+cleafr
+ls
+clear
+ls
+cd source
+ls
+hx hack/logging.mxx
+clear
+ls
+rm hack-logging.mxx
+hx main.cpp
+hx .
+hx hack/logging-logger.mxx
+clear
+ls
+hx xmake.lua
+xmake
+cd source
+l
+ls hack.hxx
+ls hack/
+h x.
+h .
+hx .
+clear
+cd ..
+xmae
+xmake
+h x.
+hx .
+clear
+xmake -v
+xmake clean
+xmake -v
+hx xmake.lua
+xmake clean
+xmake
+clear
+ls
+rm main.cpp
+lcear
+clear
+xmake
+xmake clean
+xmake -v
+hx xmake.lua
+xmake
+xmake -v
+clear
+xmake clean; xmake -v
+hx xmake.lua
+xmake clean; xmake -v
+hx . 
+clear
+xmake
+xmake clean; xmake -v
+xmake
+xmake clean; xmake -v
+hx xmake.lua
+xmake
+xmake clean
+xmake
+kxmake
+xmake
+clear
+ls
+clear
+xmake 
+xmake
+xmake clean
+xmake
+clear
+xmake
+xmkae clean
+xmake clean
+ls
+cd source
+clear
+ls
+mv **
+ls **
+ls */**
+ls **/*
+ls **/* | get name | table 
+cat ~/.local/bin/rename_files_lowercase.nu
+clear
+ls
+clear
+ls
+mv  main.cxx main.cpp
+mv hack.mxx hack.mpp
+mv hack.hxx hack.hpp
+clear
+ls
+cd hack
+ls
+mv logging-logger.cxx logging-logger.cpp
+mv logging-logger.mxx logging-logger.mpp
+mv logging.mxx logging.mxx
+mv logging.mxx logging.mpp
+clear
+ls
+cd ..
+clear
+xmake
+hx xmake.lua'<\n><\n>'
+hx xmake.lua
+clear
+xmake clean
+rm -r .xmake build
+clear
+ls
+xmake
+cleaf
+clear
+ls
+hx xmake.lua
+xmake
+xmake clean
+xmkae -v
+xmake -v
+hx xmake.lua
+hx .
+clear
+ls
+cd source
+ls
+cd hack
+ls
+h x.
+hx .
+clear
+ls
+rm logging-logger.cxx
+clear
+ls
+hx .
+clear
+cd ../..
+clear
+ls
+xmake clean
+xmake
+hx xmake.lua
+xmake
+xmake clean
+xmake -v
+ls
+cd .xmake
+ls
+ls linux/
+cd ..
+ls
+clear
+ls
+cat build/hack/mapper.txt
+clear
+xmake
+clear
+ls
+hx .
+clear
+ls
+cd hack
+ls
+rm *.cxx
+clear
+ls
+hx .
+hx ~/.config/helix/languages.toml
+clear
+hx .
+clear
+;ls
+clear
+xmake clean
+xmake
+xmake -v
+xmake -v | rg std
+hx xmake.lua
+clear
+xmake lcean
+xmake clean
+xmake
+xmake clean
+xmake
+xmake clean
+hx logging.mpp
+hx ~/.config/helix/languages.toml
+clear
+nmtui
+expand
+clear
+expand -i -t 4 
+clear
+ls
+cd Projects/hack/ls
+cd Projects/hack/hack
+cd Projects/hack/source
+ls
+clear
+ls
+expand -h
+expand --help
+expand -i -t 4 hack.mpp
+ls **/* | get name | each {|name| expand $name <\n><\n>}
+clear
+ls
+hx .
+ls **/* | get name | each {|name| expand $name -i -t 4 }
+ls **/* | get name | each {|name| expand $name -i -t 4 | save $name}
+ls
+hx hack.mpp
+ls **/*
+ls **/* | get name | each {|name| expand $name -i -t 4 | save $name -f }
+ls
+hx hack.mpp
+clear
+hx .
+clear
+ls
+cd hack
+ls
+rm logging-logger.cpp
+clear
+hx .
+clear
+hx .
+clear
+cd ..
+clear
+xmake clean
+xmake
+hx .
+cd ..
+xmake
+1xmake
+xmake
+xmak
+xmake
+clear
+xmake clean
+xmake -v
+g++ -std=c++23
+ls
+hx main.cpp
+clear
+ls
+g++ -std=c++23 main.cpp
+ls
+./a.out
+rm a.out
+clear
+xmake -v 
+xmake clean -v 
+xmake -v 
+hx build/hack/mapper.txt
+hx xmake.lua
+xmake
+xmake -v
+clear
+hx .
+xmake
+xmake clean
+xmake
+hx xmake.lua
+xmkae
+clear
+xmake clean
+xmake
+xmkae
+xmake
+xmake clean
+xmake
+hx .
+clear
+hx main.cpp
+clang++ main.cpp
+./a.out
+clear
+hx main.cpp
+clear
+ls
+h x.
+man std::basic_fstream
+man fstream
+man std::fstream
+hx .
+clear
+ls
+paru -S ccache
+xmake
+clear
+ls
+cd Projects
+ls
+cd hack
+xmake
+xmake -v
+clear
+ls
+rm a.out
+hx xmake.lua
+xmake
+xmake clean
+xmake -v
+clear
+clear
+xmake
+clear
+xmake
+xmake clean
+xmake
+xmake clean
+xmake
+hx xmake.lua
+xmake
+xmake -v 
+xmake -v | rg everything
+hx xmake.lua
+clear
+xmake
+hx xmake.lua
+clear
+xmake
+xmake clean
+xmkae 
+xmake
+xmake -v 
+clang-tidy
+clear
+ls
+hx .
+clang-tidy main.cpp
+clang-tidy
+clang-tidy --checks="*"
+clang-tidy --checks=*
+clang-tidy --checks=main.cpp
+clear
+hx ./
+xmake
+xmakexmake
+xmake
+ls
+hx xmake.lua
+xmake
+hx main.cpp
+cler
+clear
+exit
+xmake
+clear
+xmake
+hx .
+clear
+ls
+expan --help
+expand --help
+unexpand
+unexpand --help
+ls
+unexpand -t main.cpp
+unexpand -t 4 main.cpp
+ls **/* | get name | each {|name| unexpand $name -i -t 4 | save $name -f }
+clear
+ls
+hx .
+ls
+clear
+clear
+ls
+hx .
+clear
+ sl
+cd .
+cd ..
+ls
+rm main.cpp
+clear
+ls
+xmake 
+xmake clean
+xmake
+hx .
+clear
+ls
+rm -r source/*
+clear
+ls
+clear
+ls
+cd ..
+clear
+ls
+rm hack
+rm -r hack
+clear
+ls
+hx hack/source/main.cxx
+clear
+ls
+clear
+ls
+mkdir modules
+rm -r modules
+mkdir cxx
+cd cxx
+clear
+ls
+hx makefile
+clear
+ls
+cp ../sbar/makefile .
+hx makefile
+clear
+ls
+mkdir source
+hx source/main.cxx
+hx ~/.config/helix/languages.toml
+clear
+hx .
+hx ~/.config/helix/languages.toml
+clear
+ls
+hx .
+hx ~/.config/helix/languages.toml
+clear
+hx .
+clear
+hx ~/.config/helix/languages.toml
+clear
+ls
+hx .
+clear
+ls
+mv my_module.mxx my_module.cxxm
+hx .
+hx ~/.config/helix/languages.toml
+clear
+hx .
+make
+clear
+ls
+ls binary/
+ls object/
+hx .
+hx makefile
+make
+make clean
+make
+clcear
+ls
+clear
+ls
+mv my_module.cxxm source
+mae
+make
+hx .
+make
+hx source/my_module.cxx
+make
+hx makefile
+cd ~/.config/helix
+git clone https://github.com/CptPotato/helix-themes
+clear
+ls
+cd helix-themes/
+clear
+ls
+sh build.sh
+clear
+ls
+sh build.sh
+clear
+ls
+cd ..
+ls
+ls themes
+clear
+cd
+cd Projects/hack/source
+clear
+h x.
+hx .
+cd ..
+ls
+hclcear
+ls
+clear
+ls
+cd ..
+ls
+cd cxx
+clera
+clear
+ls
+hx makefile
+hx ~/.config/helix/themes/
+hx ~/.config/helix/helix-themes/
+clear
+ls
+cd ~/.config/helix
+ls
+cd helix-themes/
+ls
+hx build.sh
+clear
+ls
+ls build
+mv build/* ~/.config/helix/themes/
+cd
+cd Projects/cxx
+clear
+hx makefile
+clear
+s
+ls
+cd ~/.config/helix
+clear
+ls
+rm helix-themes
+rm helix-themes -r
+clear
+ls
+rm template.toml
+clear
+ls
+hx themes/
+cd themes
+hx README.md
+clear
+sl
+ls
+mv gruvbox_dark_hard.toml ..
+rm *
+clear
+ls
+mv gruvbox_dark_hard.toml .
+mv ../gruvbox_dark_hard.toml .
+clear
+cd ..
+cd
+clear
+cd Projects/cxx
+nmtui
+nmti
+hx makefile
+make
+make clean
+make
+hx makefile
+make
+hx makefile
+clear
+make clean
+make
+ls build/object/
+ls build/
+clear
+ls
+clear
+make
+hx makefile
+make
+hx makefile
+make
+hx makefile
+clear
+ls
+hx make.nu
+clear
+exit
+nu
+clear
+nu --help
+clea
+clear
+ls
+chmod +x make.nu
+make
+make.nu
+./make.nu
+hx mkaefile
+hx make.nu
+./make.nu
+clear
+ls
+mv make.nu build.nu
+clear
+ls
+hx .
+git ini
+git init
+hx .
+clear
+ls
+rm build.nu
+clear
+ls
+make
+hx makefile
+clear
+ls
+xmake ..
+clear
+xmake init
+clear
+ls
+cd ..
+ls
+rm cxx -r
+clear
+ls
+xmake new
+clear
+ls
+xmake create cxx
+clear
+cd cxx
+clear
+ls
+xmake 
+xmake run
+xmake --help
+xmake check
+xmake --help
+xmake format
+hx .
+clear
+ls
+hx xmake.lula
+hx .
+clear
+ls
+mv src source
+xmake
+hx xmake
+hx xmake.lua
+xmake
+hx xmake.lua
+clear
+xmake
+hx xmake.lua
+xmake
+xmake -v
+clear
+ls
+ls source/
+mv source/main.cpp source/main.cpp
+clear
+mv source/main.cpp source/main.cxx
+clear
+xmake
+xmake -v
+xmake clean
+xmake -v
+clear
+hx xmake.lua
+xmake -v
+clear
+ls
+hx .
+xmake
+hx .
+clear
+make celan
+xmake clean
+xmake -c
+xmake -v
+hx xmake.lua
+clear
+xmake -v
+nmtui
+exit
+hx xmake.lua
+clear
+xmake -v
+xmake clean
+clear
+ls
+ls source
+hx source/module.cxxm
+claer
+clear
+ls
+cd
+ls
+git add -A
+git commit -am "."
+git push
+clear
+ls
+rm .git -r
+rm .gitignore
+clear
+ls
+cd Projects/cxx
+clear
+ls
+clear
+hx .
+clear
+hx .
+clear
+ls
+mv source/module.cxxm source/my_module.cxxm
+clear
+hx .
+clear
+xmake
+xmake clean
+clear
+ls
+xmake -v
+xmake
+xmake clean
+hx .
+clear
+ls
+cd source
+ls
+mv main.cxx main.cpp
+mv my_module.cxxm my_module.cppm
+mv my_module.cxx my_module.cpp
+clear
+ls
+cd ..
+clear
+xmake
+hx .
+xmake
+xmake clean
+xmake
+nmtui
+clear
+xmake
+clear
+xmake clean; xmake -v
+cat build/.objs/cpp/linux/x86_64/release/source/my_module.cpp.o | rg _GLOBAL_
+rg --help
+rg --help | rg binary
+cat build/.objs/cpp/linux/x86_64/release/source/my_module.cpp.o | rg _GLOBAL_ --binary
+cat build/.objs/cpp/linux/x86_64/release/source/my_module.cpp.o | rg f --binary
+rg --help
+cat build/.objs/cpp/linux/x86_64/release/source/my_module.cpp.o | rg f --text
+cat build/.objs/cpp/linux/x86_64/release/source/my_module.cpp.o | rg _GLOBAL --text
+clear
+ls
+xmake clean
+xmake -v 
+clear
+hx.
+hx .
+cd ..
+ls
+mv cxx test
+cd test
+cl;era
+clear
+ls
+hx xmake.lua
+xmake clea
+xmake clean
+rm -r build/*
+clear
+hx .
+xmake 
+xmake v
+celar
+clear
+xmake -c
+xmake -v
+xmake -vw
+clear
+hx .
+clear
+ls
+cd source
+ls
+mv *.cppm *.mpp
+ls
+mv *.mpp my_module.mpp
+ls
+cd ..
+xmake
+cd source
+cd ..
+xmake clean
+xmake
+hx xmake.lua
+clea
+rls
+clear
+ls
+source.
+hx .
+mv source/my_module.mpp source/my_module.cppm
+clear
+ls
+clefar
+clea
+clear
+xmake
+ls
+ls source/
+hx .
+clear
+xmake clean
+xmake
+clear
+h x.
+hx .
+clear
+xmake
+clear
+xmake clean
+xmake
+cd Projects/cxx
+cd Projects/test
+clear
+ls
+xmake
+xmake clena
+xmake clean
+xmkae
+xmake
+hx .
+clra
+clear
+ls
+cd source
+ls
+clear
+ls
+rm my_module.cpp
+clefar
+cd ..
+clear
+cd source
+clear
+clear
+xmake clean
+xmake -v
+clear
+ls
+ranger
+clar
+clear
+ls
+mv Downloads/std.modulemap Projects/test/
+clear
+ls
+clear
+ls
+hx xmake.lua
+cla
+clear
+ls
+mv std.modulemap build
+xmake
+xmake -v
+xmake clean
+xmake -vw
+hx xmake.lua
+clear
+ls
+hx .
+xmake -v
+xmake clean
+clear
+ls
+cd ..
+xmake
+xmake clean
+clear
+xmake
+xmake clean
+xmake 
+clear
+xmake clean
+xmake
+hx .
+clear
+ls
+hx xmake.lua
+clear
+ls
+xmkae
+xmake
+xmake clear
+xmaek clean
+xmake
+xmaek clean
+xmake clean
+xmake 
+xmake clean
+clear
+xmake -v
+clear
+ls
+hx xmake.lua
+xmake -v
+hx xmake.lua
+clear
+xmake clean
+xmake -v
+hx .
+xmake clean
+xmake -v
+clear
+xmake clean
+xmake -v
+paru
+clang -v
+clang --version | findstr version
+paru -S clang
+clear
+tar
+clear
+cd Downloads
+clear
+hx xmake.lua
+exit
+eexit
+exit
+clear
+cd Projects/sbar/
+clear
+ls
+hx .
+clear
+cat /sys/class/backlight/amdgpu_bl0/brightness
+cat /sys/class/backlight/amdgpu_bl0/actual_brightness
+cat /sys/class/backlight/amdgpu_bl0/max_brightness
+cat /sys/class/backlight/amdgpu_bl0/power/
+cat /sys/class/backlight/amdgpu_bl0/power/control
+cd Projects/sbar/
+clera
+ls
+clear
+ls source/
+clear
+hx source/sbar-light.hxx
+cat /sys/class/sound/card0/number
+cat /sys/class/sound/card0/subsystem/
+cat /sys/class/sound/
+ls /dev | rg mixer
+clear
+cat /proc/asound/card0/pcm3p/sub0/prealloc
+cat /proc/asound/card0/pcm3p/sub0/info
+cat /proc/asound/card1/pcm0p/info
+ls /proc/asound
+ls /proc/asound/**
+ls /sys/class/** | rg sound
+hx .
+cat /dev/snd/seq
+ls /dev/snd
+hx /dev/snd/seq
+cat /dev/snd/seq
+clear
+ls
+clear
+hx .
+clear
+hx .
+cat /proc/asound/card0/pcm3p/sub0/sw_params
+cat /proc/asound/card0/pcm3p/sub0/info
+cd ..
+clear
+cd sba
+cd sbar
+clear
+ls /sys/class/sound/seq/uevent
+cat /sys/class/sound/seq/uevent
+clear
+ls
+cat /dev/mixer
+hx .
+clear
+cat /proc/asound/card0/pcm3p/sub0/status
+clear
+hx .
+clear
+ls
+cd source
+ls
+rm *audio
+rm *audio.hxx
+clear
+ls
+hx .
+clear
+cd ..
+clear
+make
+make clean; make
+./binary/sbar
+clear
+ls
+cp binary/ ~/.local/bin/
+cp binary/sbar ~/.local/bin/
+cp binary/sbar ~/.local/bin/ -f
+rm ~/.local/bin/sbar
+cp binary/sbar ~/.local/bin/
+clear
+exit
+paru -S clang-git
+clera
+clear
+paru -S clang-git
+celar
+l
+ls
+clear
+neofetgch
+neofetch
+cd Downloads/
+ls
+tar clang+llvm-16.0.0-aarch64-linux-gnu.tar.xz
+paru -S xz
+xz clang+llvm-16.0.0-aarch64-linux-gnu.tar.xz
+xz --help
+xz -T0
+xz -x -T0
+xz --extract
+xz -h
+clear
+tar
+tar --help
+tar --help | rg extract
+clera
+ls
+tar -x clang+llvm-16.0.0-aarch64-linux-gnu.tar.xz
+tar -x clang+llvm-16.0.0-aarch64-linux-gnu.tar.xzf
+tar -x clang+llvm-16.0.0-aarch64-linux-gnu.tar.xz -f
+tar --help | rg f
+cd Downloads/
+ls
+l
+sls
+ls
+clefar
+clear
+tar -xf clang+llvm-16.0.0-aarch64-linux-gnu.tar.xz
+clear
+ls
+cd clang+llvm-16.0.0-aarch64-linux-gnu/
+ls
+ls bin/
+./bin/clang
+clear
+ls
+ls include/
+./bin/amdgpu-arch
+cat bin/clang
+cat bin/clang | less
+clear
+ls
+bin/clang
+./bin/clang
+ls
+ls shsare
+ls libexec
+cd ../
+ls
+clear
+ls
+rm -r *
+ls
+clear
+ls
+tar -xf clang-16.0.0.src.tar.xz.sig
+tar clang-16.0.0.src.tar.xz.sig
+clear
+ls
+rm *.sig
+clare
+clear
+ls
+tar -xf clang-tools-extra-16.0.0.src.tar.xz
+ls
+cd clang-tools-extra-16.0.0.src/
+ls
+rm -r *
+clear
+ls
+cd ..
+ls
+rm -r *
+clear
+ls
+clear
+l
+ls
+tar -xf clang-16.0.0.src.tar.xz
+clear
+ls
+cd clang-16.0.0.src/
+ls
+hx .
+cmake
+hx README.txt
+clear
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release SRC_ROOT
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release .
+ls
+mkdir build
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release build
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release ./build
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release
+ls
+rm CMakeCache.txt -r
+rm CMakeFiles
+rm CMakeFiles -r
+clear
+ls
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release cmake
+mv CMakeLists.txt cmake
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release cmake
+l
+sls
+clear
+ls
+ls cmake
+mv cmake/CMakeLists.txt ..
+clear
+ls
+cd ..
+ls
+mv CMakeLists.txt clang-16.0.0.src
+cd clang-16.0.0.src/
+clear
+ls
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release -Bcmake
+clear
+ls
+clear
+ls
+clear
+ls
+rm CMakeFiles -r CMakeLists.txt
+clear
+ls
+rm cmake/*
+rm cmake/* -r
+clear
+ls
+cd ..
+ls
+rm -r clang-16.0.0.src.tar.xz
+ll
+ls
+rm -r clang-16.0.0.src/
+clear
+ls
+tar -xf clang-16.0.0.src.tar.xz
+clcear
+clear
+ls
+cd clang-16.0.0.src/
+hx .
+clear
+ls
+clear
+ls
+mkdir build
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=~/Downloads/clang-16.0.0.src/build
+ls
+rm CMakeCache.txt CMakeFiles -r
+clear
+ls
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=~/Downloads/clang-16.0.0.src/build -Bbuild
+clear
+ls
+cd biuld
+cd build
+clear
+ls
+rm -r *o
+rm -r *
+clear
+ls
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release ..
+paru -S cmake
+clear
+cd ..
+ls
+mkdir bin
+cd build
+ls
+clear
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/k/Downloads/clang-16.0.0.src/bin ..
+cmake -G "UNIX Makefiles" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/k/Downloads/clang-16.0.0.src/bin ..
+cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/k/Downloads/clang-16.0.0.src/bin ..
+rm -r *
+cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/k/Downloads/clang-16.0.0.src/bin ..
+hx .
+ls
+hx ../cmake/modules/CMakeLists.txt
+clear
+paru -S cmake gcc python zlib make
+which
+wchih ar
+which ar
+which bzip2 bunzip2
+which chmod cat cp date echo egrep find grep gzip gunzip install mkdir mv ranlib rm sed sh tar test unzip zip
+clear
+ls
+clear
+ls
+cd build
+clear
+ls
+rm -r *
+clear
+ls
+cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
+;s
+ls
+rm -r *
+cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
+cmake
+cmake -v
+cmake --version
+gcc -v
+python -v
+clear
+ls
+clear
+python --version
+zlib 
+zlib
+paru -Q zlib
+paru -Q --info zlib
+clear
+make --version
+rm *
+rm * -r
+clear
+ls
+sh
+clear
+cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
+cd ../../
+clear
+ls
+rm -r*
+rm -r *
+clear
+paru -Syu clang-git
+paru -Qqe
+paru -Qqe | rg  llvm
+paru -Qqe | rg  clang
+paru -Rsn llvm clang
+paru -Qqe
+paru -Rsn clang-git
+paru -S clang-git
+paru -Q
+paru -Q | rg llvm
+paru -Rsn llvm-libs
+paru -h
+paru -Rsn lld
+paru -Rsn mesa libva-mesa-driver vulkan-radeon
+clera
+clear
+paru -Rsn llvm-libs
+paru 
+cl4r
+paru -S clang-git
+paru -S libva-mesa-driver mesa lld
+cd .cache/paru/
+ls
+cd clon
+cd clone
+ls
+cd clang-git
+ls
+ls src
+ls src/llvm-project/
+clear
+ls
+cd src/llvm-project/
+ls
+paru -S clang-git
+clear
+ls
+cd llvm-project/
+ls
+ls **/*
+ls **/* | get name
+ls **/* | get name | rg clang
+cd ../
+ls
+ls **/* | get name | rg clang
+sudo rm /usr/lib/libLTO.so /usr/lib/libRemarks.so
+ls /usr/lib | rg libLTO
+ls /usr/lib | rg libRemarks
+clang
+clang++
+paru 
+clang-tidy
+clangd
+clea
+clear
+ls
+cd Projects/
+ls
+cd sbar
+cd ..
+cd test
+ls
+make
+xmake
+xmake -v
+clang --version
+hx .
+clear
+ls
+make -v
+xmake -v
+clera
+xmake clean
+clear
+xmake -v
+hx xmake.lua
+ls /rec
+ls **/* | rg include
+ls /**/* | rg include
+clear
+hx .
+cd /usr/
+ls
+cd include
+ls
+ls | rg modulemap
+ls **/* | rg module
+ls **/* | rg modulemap
+clear
+ls
+cd
+clear
+ls
+cd Projects/test
+clear
+sl
+clear
+ls
+hx xmake.lua
+clear
+ls
+cd source
+ls
+mv main.cpp main.cxx
+mv my_module.cppm my_module.cxxm
+cd ..
+clear
+xmaek clean
+rm build/*
+rm build/* -r
+clear
+xmake -v
+clear
+hx xmake.lua
+cd source/
+ls
+mv main.cxx main.cpp
+mv my_module.cxxm my_module.cppm
+clear
+cd ..
+ls
+clear
+xmake
+xmaek clean
+xmake
+cd Projects/test
+clear
+xmake -v
+xmaek -v
+xmake -v
+paru -Q | rg libc
+paru -Q | rg ++
+paru -Q | rg '++'
+paru -Q | rg "++"
+paru -S libc++
+xmake
+xmaek -v
+xmake -v
+paru -S glibc
+clear
+xmake
+xmaek -v
+xmaek clean
+xmake clean
+xmake -v
+clear
+ls
+hx xmake.lua
+xmake -v
+xmaek clean
+xmake clean; xmake -v
+ls
+xmake run
+clear
+hx xmake.lua
+clear
+xmake -v
+hx xmake.lua
+clear
+xmake -v
+hx xmake.lua
+xmake clean
+xmake -v
+clear
+hx .
+clear
+ls
+xmake -v
+clear
+xmake clean
+xmake -v
+hx .
+clear
+ls
+acd ..
+cp xmake.lua ../hack
+cd ../hack
+celar
+ls
+clear
+ls
+hx .
+clear
+ls
+clang --versio
+clang --version
+clear
+cd Projects/hack
+clear
+git init
+git ad d-A
+git add -A
+git commit -am "."
+git branch -M main
+git remote add origin git@github.com:Kimhyr/hack
+git push
+git push -u origin main
+:w
+clear
+xmake -v
+xmake --version
+clear
+cd Projects/hack
+clear
+ls
+xmake
+clear
+ls
+xmake
+ls source/
+hx xmake.lua
+clear
+ls
+cd source/
+ls
+mv main.cxx main.cpp
+cd ..
+clear
+xmake 
+ls
+hx README.md
+clear
+celar
+ls
+clear
+hx xmake.lua
+clear
+xmake clean
+hx .
+hx .gitignore
+cd ..
+ls
+ls test
+cp test/.gitignore hack
+cd hack
+clear
+ls
+hx .
+hx .gitignore
+clear
+ls
+hx .
+git add -a
+git add -A; git commit -am "."; git push
+hx README.md
+git add -A; git commit -am "."; git push
+hx README.md
+git add -A; git commit -am "."; git push
+clear
+ls
+git clone https://github.com/Kimhyr/Hack-RARSHDFLKJSDF
+hx .
+clear
+ls
+mv Hack-RARSHDFLKJSDF/Editor/ .
+ls
+rm -r Hack-RARSHDFLKJSDF/
+clear
+ls
+hx .
+cd Editor/
+ls
+h x.
+hx .
+cd ..
+ls
+rm -r Editor
+ls ../.hack/**/* 
+mv ../.hack/source/ .
+mv ../.hack/source .
+mv ../.hack/ .
+ls
+ls .hack
+mv .hack/source .
+mv .hack/source/* source/
+ls
+rm -r .hack
+clear
+hx .
+clear
+ls
+cd source
+ls
+rm main.cpp
+hx .
+hx main.cxx
+clear
+ls
+mv main.cxx main.cpp
+mv editor.cxxm editor.cppm
+cd editor
+ls
+mv core-buffer.cxx core-buffer.cpp
+mv core-buffer.cxxm core-buffer.cppm
+mv core.cxxm core.ppm
+clear
+ls
+mv core.ppm core.cppm
+clear
+ls
+mkdir buffer
+mv core-buffer.cpp buffer.cpp
+mv core-buffer.cppm buffer.cppm
+hx core.ppm
+h x.
+hx .
+rm core.cppm
+clear
+ls
+cd ..
+ls
+hx .
+clear
+ls
+hx editor.cppm
+hx .
+cd editor
+clear
+ls
+touch buffer-buffer.cppm
+touch buffer-buffer_cursor.cppm
+touch buffer-buffer_segment.cppm
+clear
+ls
+clear
+sl
+ls
+hx .
+rm buffer-buffer.cppm
+clear
+ls
+rm -r buffer
+hx .
+clear
+ls
+hx buffer.cppm
+hx ../editor.cppm
+hx .
+clear
+ls
+cd ..
+ls
+hx xmake.lua
+clear
+ls
+mv source hack
+rm -r build/*
+clear
+ls
+mkdir u
+hx u/u.cppm
+clear
+hx hack/editor.cppm
+hx .
+clear
+ls
+cd hack
+clear
+ls
+c d..
+cd ..
+clear
+hx hack/editor/buffer-buffer_segment_iterator.cppm
+clear
+hx ~/.config/helix/languages.toml
+clear
+hx .
+hx ~/.config/helix/languages.toml
+clear
+hx .
+clear
+ls
+hx .
+hx TODO
+clear
+ls
+hx u/u.cppm
+hx u/u/types.cppm
+clear
+hx u/macros.hpp
+clear
+ls
+hx xmake.la
+hx xmake.lua
+hx .
+clear
+hx xmake.lua
+xmake --help
+xmkae build u
+xmake kbuild u
+xmake build u
+hx  xmake.lua
+xmake build u
+hx .
+clear
+ls
+ls u
+hx u/u.cppm
+hx u/main.cpp
+clear
+ls
+hx u/main.cpp
+clear
+xmake
+hx u/main.cpp
+xmake
+hx .
+xmake
+xmake u
+clcear
+clear
+ls
+xmake u
+xmake clean u
+xmake build u
+hx .
+clear
+ls
+hx xmake.lua
+clear
+xmake clean u
+xmake build u
+hx .
+xmake run u
+clear
+sl
+clear
+ls
+rm u/main.cpp
+clear
+ls
+mkdir test
+hx test/main.cpp
+clear
+ls
+hx xmake.lua
+clear
+xmake clean
+hx xmake.lua
+clear
+xmake clean u hack 
+clear
+ls
+xmake clean u; xmake clean hack
+clear
+ls
+hx test/main.cpp
+xmake build test
+xmake run test
+hx xmake.lua
+xmake build test; xmake run test
+hx xmake.lua
+clear
+xmake build test
+xmake build test -v
+xmake clean test; xmake build test -v
+xmake build test
+hx .
+xmake run test
+hx .
+xmake build u
+xmake run test
+xmake build test
+xmake run test
+xmake clean test; xmake clean u
+xmake build u; xmake build test
+xmake run test
+hx xmake.lua
+hx .
+xmake build u; xmake build test
+hx xmake.lua
+clear
+hx .
+clear
+xmake clean test; xmake clean u
+xmake build test
+xmake run test
+hx .
+clear
+ls
+hx u/u/types.cppm
+hx ~/.config/clangd/config.yaml
+hx .
+clear
+xmake build u
+hx xmake.lua
+xmake build u -v
+xmake build u --verbose
+xmake --help
+xmake build -v u
+hx .
+clear
+ls
+h x.
+hx u/u/types.cppm
+hx .
+xmake build -v u
+xmake clean u
+clear
+paru -S ttf-google-fonts-git
+paru -Rsn adobe-source-code-pro-fonts
+paru -Rsn adobe-source-code-pro-fonts gsettings-desktop-schemas
+paru -Q | rg at-spi2
+paru -Rsn adobe-source-code-pro-fonts
+pacman -Si
+pacman -Si adobe-source-code-pro-fonts
+pacman -Sii adobe-source-code-pro-fonts
+pacman -Sii gsettings-desktop-schemas
+clea
+clear
+paru -S ttf-google-fonts-git
+clear
+hx .
+clear
+ls
+cd u
+clear
+ls
+cd u
+ls
+mv iteration-iterator.cppm iteration-iterator_base.cppm
+clear
+ls
+hx iteration-declarations.cppm
+clear
+sl
+ls
+rm *base
+rm *declaration
+clear
+ls
+rm iteration-declarations.cppm
+clear
+ls;
+rm iteration-iterator_base.cppm
+clear
+ls
+paru -Scc
+clear
+fc-list
+hx iteration.cppm
+clear
+paru -S neovim
+cd
+clera
+ls
+clear
+ls
+clear
+cd .config/nvim
+mkdir .config/nvim
+cd .config/nvim
+clear
+hx initlu:
+clear
+nvim init.lua
+clear
+ls
+mkdir lua
+touch lua/core.lua
+:w
+hx .
+nvim .
+clear
+ls
+nvim init.lua
+clear
+ls
+nvim init.lua
+mkdir lua/lazy
+clear
+ls
+mkdir lazy
+clear
+nvim init.lua
+clear
+nvim init.lua
+clear
+ls
+nvim/lua/theme.lua
+nvim init.lua
+clear
+ls
+nvim lua/theme.lua
+clear
+ls
+nvim init.lua
+clear
+ls
+nvim init.lua
+clear
+ls
+ls laz
+ls lazy
+clear
+ls
+ls lua
+ls lua/lazy
+rm lua/lazy
+clear
+ls
+nvim init.lua
+clear
+ls
+rm -r lazy
+nvim init.lua
+clear
+ls
+cd 
+ls
+cd .cofig
+clea
+rcd .config
+cd .config
+clear
+ls
+cd nvim
+clear
+ls
+mkdir lazy
+nvim init.lua
+clear
+nvim init.lua
+clear
+nvim init.lua
+clear
+ls
+ls lazy
+rm -r lazy
+clear
+nvim init.lua
+clear
+l
+ls
+cle
+clear
+ls
+git clone https://github.com/folke/lazy.nvim/git --filter=blob:none --branch=stable
+git clone https://github.com/folke/lazy.nvim.git --filter=blob:none --branch=stable
+clear
+ls
+ls lazy.nvim
+nvim init.lua
+clear
+ls
+rm -r lazy.nvim/
+clea
+clear
+nvim init.lua
+clear
+nvim init.lua
+ls
+git clone https://github.com/folke/lazy.nvim.git --filter=blob:none --branch=stable
+clear
+ls
+ls lazy.nvim/
+ls lazy.nvim/lua/
+ls lazy.nvim/lua/lazy/
+mv lazy.nvim/lua/ lua
+clear
+ls
+rm -r lazy.nvim
+ls lua
+cd lua
+clear
+ls
+cd lua
+ls
+mv lazy ..
+cd ..
+ls
+rm -r lua
+clear
+hx .
+ls lua
+ls lazy
+c d..
+cd ..
+ls
+clear
+nvim init.lua
+clear
+nvim init.lua
+clear
+ls
+nvim init.lua
+clear
+ls
+nvim lua/keymap.lua
+clear
+nvim .
+clear
+cd .config/nvim
+clear
+nvim .
+clea
+rls
+clefar
+ls
+clear
+ls
+nvim init.lua
+clear
+nvim init.lua
+fd
+paru -S fd
+nvim .
+clear
+ls
+clear
+nvim ./
+clear
+nvim .
+clear
+nvim .
+clea
+rls
+clear
+nvim .
+clear
+nvom
+nvim
+nvim .
+clear
+ls
+nvim .
+clar
+clear
+ls
+nvim lu:w
+clear
+cd lua
+ls
+mv theme.lua themes.lua
+mv keymap.lua keymaps.lua
+clear
+touch options.lua
+nvim .
+clear
+ls
+nvim ..
+clear
+nvim .
+clear
+ls
+nvim .
+clear
+ls
+nvim .
+clear
+nvim .
+clea
+clear
+nvim .
+clear
+cd ..
+clea
+clear
+nvim .
+cd .config/nvim
+clear
+ls
+nvim .
+clear
+ls
+nvim ./
+clear
+ls
+nvim .
+clear
+ls
+nvim lua/plugins.lua
+clear
+nvim .
+clea
+clear
+nvim ,
+nvim .
+clear
+ls
+nvim .
+clear
+nvim .
+clea
+rnvim .
+clear
+nvim. 
+nvim .
+cleqr
+clear
+nvim .
+clear
+nvim .
+clea
+clear
+nvim .
+clear
+cd 
+ls
+rm .local/state/nvim/swap/%home%k%.config%nvim%lua%plugins%winshift.lua.swp
+clear
+ls
+cd .config/nvim
+clear
+nvim .
+clear
+nvim .
+clear
+nvim .
+clea
+clear
+l
+clear
+nvim .
+nvim. 
+nvim .
+clear
+nvim .
+clea
+rnvim .
+clear
+vnim .
+nvim .
+clea
+clear
+vim
+clear
+nvim .
+clear
+nvim .
+clear
+nvim .
+clear
+ls
+clear
+ls
+nvim init.lua
+nvim lua/plugins.lua
+nvim .
+clear
+nvim .
+celar
+clear
+nvim.
+nvim .
+clear
+nvim .
+clear
+nvim .
+clear
+nvim .
+clear
+nvim .
+clea
+clear
+nvim .
+clear
+nvim .
+clear
+ls
+rm :w
+clear
+nvim .
+clea
+clear
+nvim.
+nvim .
+clear
+nvim :w
+clear
+nvim .
+clea
+clear
+nvim .
+clear
+nvim .
+clear
+nvim ./
+clea
+clear
+nvim .
+clear
+nvim .
+clear
+nvim .
+clear
+nivm. 
+nvim .
+clear
+nvim ./
+clear
+nvim .
+celar
+nvim .
+clear
+nvim .
+clear
+git init
+clea
+clear
+git .
+clear
+nvim .
+clear
+ls
+mkdir doc
+clear
+nvim ./
+clear
+clcear
+clear
+nvim .
+clear
+git config --global user.name 'King Emhyr'
+git config --global user.username 'King Emhyr'
+clear
+nvim ./
+clear
+nvim .
+clea
+rclear
+lcear
+clear
+ls
+nvim lua/plugins.lua
+clear
+vi
+nvim lua/plugins/fugitive.lua
+clear
+nvim lua/plugins
+clear
+ls
+rm -r doc
+nvim ./
+clear
+git config --global --add url."git@github.com:".insteadOf "https://github.com/<\n>"
+cd
+clear
+ls
+hx .gitconfig
+clear
+nvim .gitconfig
+clear
+nvim .
+clea
+clear
+ls
+nvim .gitconfig
+clear
+nvim .gitconfig
+clear
+ls
+cd .config/nvim
+clear
+ls
+nvim .
+clear
+ cd../
+cd ..
+clear
+ls
+cd 
+clear
+ls
+cd Projects/hack
+nvim .
+clear
+ls
+nvim xmake.lua
+clear
+nvim ~/.gitconfig
+clear
+paru -S github-cli
+clear
+gh
+clear
+cd
+gh auth login
+clear
+ls
+nvim main.cpp
+clear
+nvim .gitconfig
+clear
+nvim main.cpp
+clear
+cd .config/nvim
+nvim lua/plugins.lua
+clear
+nvim .
+clea
+mkdir doc
+nvim .
+clear
+nvim .
+clear
+cd
+clear
+ls
+nvim main.cpp
+clear
+ls
+cd .config/nvim
+clear
+ls
+clear
+nvim .
+clear
+nvim .
+clear
+nvim ./
+clear
+nvim .
+clear
+ls
+nvim main.cpp
+clear
+nvim .
+clea
+clear
+nvim .
+clear
+nvim main.cpp
+nvim ~/.config/clangd/config.yaml
+clear
+nvim .
+clear
+nvim .
+clea
+rls
+clear
+ls
+nvim .
+clear
+nvim .
+clear
+nvim .
+clea
+clear
+ls
+nvim lua/keymaps.lua
+clear
+nvim .
+clea
+clear
+nvim .
+clear
+nvim lua/keymaps.lua
+cleear
+clear
+ls
+rm main.cpp
+cd 
+clear
+ls
+cd Projects/hack
+clear
+nvim .
+clear
+nvim ~/.config/nvim
+cd
+clear
+cd .config/nvim
+clear
+nvim .
+clear
+ls
+rm lua/plugins/winshift.lua
+clea
+nvim .
+clear
+nvim lua/options.lua
+clea
+rnvim .
+nvim ./
+clear
+nvim .
+clear
+ls
+nvim lua/options.lua
+clear
+nvim 
+clear
+nvim .
+clear
+ cd
+clear
+ls
+cd Projects/hackc
+cd Projects/hack
+clear
+nvim .
+clea
+rls
+clea
+rls
+clear
+ls
+nvim .
+clea
+lcear
+clear
+hx .
+clear
+cd ~/.config/helix
+ls
+clear
+ls
+hx config.toml
+clea
+clear
+hx .
+cd
+clear
+cd Projects/hack
+clear
+hx .
+hx ~/.config/helix/languages.toml
+clear
+hx .
+clear
+clang-format
+clear
+hx .clang-format
+celar
+ls
+clear
+ls
+cd ..
+ls
+mkdir cpp-template
+cd cpp-tempalte
+cd cpp-template
+mkdir source
+cp ../hack/xmake.lua ../hack/.clang-format ../hack/.gitignore .
+cp --help
+[../hack/xmake.lua, ../hack/.clang-format, ../hack/.gitignore]
+[../hack/xmake.lua, ../hack/.clang-format, ../hack/.gitignore] | cp .
+[../hack/xmake.lua, ../hack/.clang-format, ../hack/.gitignore] | each {|e| cp $e . }
+ls
+clear
+ls
+hx .
+clear
+ls
+git init
+git add -A; git commit -am "."
+git remote add origin git@github.com:cpp-template.git
+git push
+git push -u origin main
+git remote remove origin
+git remote add origin git@github.com:Kimhyr/cpp-template.git
+git push -u origin main
+git remote add origin git@github.com:Kimhyr/cpp-template.git
+git remote remove origin
+git branch -M main
+git remote add origin git@github.com:Kimhyr/cpp-template.git
+git push -u origin main
+clear
+lx
+hx source/main.cpp
+clear
+git add -A; git commit -am "."
+git push
+claer
+clear
+ls
+clang-format
+clang-format -h
+xmake --help
+clear
+hx .
+clear
+ls
+clang-format
+:w
+clang-format --help
+clear
+ls
+cd Projects/cpp-template/
+clear
+ls
+cd source/
+ls
+clang-format main.cpp
+hx ../.clang-format
+hx ~/.config/helix/languages.toml
+clear
+hx .
+hx ~/.config/helix/languages.toml
+clear
+ls
+hx .
+hx ~/.config/helix/languages.toml
+hx .
+clear
+ls
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+hx .clang-format
+clang-format source/main.cpp
+clear
+hx .
+clang-format source/main.cpp
+clang-format source/main.cpp -i
+hx .
+clear
+ls
+git add -A; git commit -am "."; git push
+cp .clang-format ../hack
+cd ../hack
+clear
+ls
+hx xmake.lua
+clear
+ls
+hx ~/.config/helix/languages.toml
+clear
+ls
+hx .
+hx ~/.config/helix/languages.toml
+hx .
+hx .clang-format
+hx ../cpp-template/.clang-format
+clear
+hx ../cpp-template/.clang-format
+clear
+ls
+clear
+ls
+hx .
+hx .clang-format
+clear
+hx .
+hx .clang-format
+clear
+hx .
+clear
+ls
+cd ..
+clear
+ls
+xmake create u
+[hack/.clang-format, hack/xmake.lua/] | each {|e| cp $e .}
+ls
+cd u
+[hack/.clang-format, hack/xmake.lua/] | each {|e| cp $e .}
+ls
+clear
+cd ..
+sl
+ls
+rm .clang-format
+clear
+ls
+cp hack/.clang-format cpp-template/
+cp hack/.clang-format u
+cd u
+clear
+ls
+mv src source
+hx .
+cp ../hack/xmake.lua .
+clear
+ls
+hx xmake.lua
+clear
+ls
+ls source/
+rm source/*
+mv source u
+mkdir tests
+clear
+ls
+cp ../hack/u . 
+cp ../hack/u .  -r
+clear
+ls
+hx .
+cd u
+ls
+hx macros.hpp
+clear
+hx macros.hpp
+clear
+sl
+clear
+ls
+hx u.cpppm
+hx u/cppm
+hx u.cppm
+hx ../.clang-format
+cp ../.clang-format ../../cpp-template/
+clear
+ls
+hx .
+clear
+hx .
+clear
+lx
+celar
+clear
+hx .
+clear
+ls
+cd u
+ls
+ls metaprogramming
+mv metaprogramming/modifiers.cppm metaprogramming/type_modifiers.cppm
+clear
+ls
+clear
+ls
+hx constraints.cppm
+clear
+ls
+mv constraints.cppm metaprogramming/
+mv metaprogramming/type_modifiers.cppm metaprogramming/functions.cppm
+cat functions.cppm
+mv functions.cppm metaprogramming.cppm
+mv functions.cppm metaprogramming
+clear
+ls
+cd metaprogramming/
+ls
+hx .
+cd ..
+hx .
+cd ..
+ls
+hx .
+clear
+ls
+ls u
+hx .
+clear
+cd ..
+ls
+xmake
+hx xmake.lua
+ls
+clear
+hx xmake.lua
+clear
+xmake clean
+xmake clean u
+xmake build u
+hx .
+clear
+xmake build u
+hx .
+xmake build u
+hx .
+clear
+xmake build u
+print 
+print d
+cd Projects/u
+clear
+xmake build u
+hx .
+clear
+xmake build u
+hx .
+xmake build u
+cd Projects/u
+xmake build u
+clear
+xmake build u
+xmaek clean
+xmake clean u; xmake build u
+hx .
+clear
+ls
+cd u
+ls
+mv u/metaprogramming/constraints/references.cppm u/metaprogramming/constraints/qualifiers.cppm
+hx .
+clear
+ls
+mv u/metaprogramming/constraints/qualifiers.cppm u/metaprogramming/constraints-qualifiers.cppm
+rm u/metaprogramming/constraints/
+clear
+ls
+clear
+ls
+cd Projects/u
+clear
+ls
+hx ./
+clear
+xmake clean u; xmake build u
+cd Projects/u
+clea
+clear
+xmake build u
+hx .
+clear
+ls
+cd u
+clea
+rls
+clear
+ls
+cd u
+ls
+cd metaprogramming/
+ls
+rm -r constraints/
+clear
+ls
+clear
+xmake build u
+xmake 
+xmaek clean
+clear
+xmake clean u; xmake build u
+hx .
+clear
+ls
+hx .
+clear
+ls
+rm constraints/ -r 
+clear
+ls
+hx .
+clear
+hx ~/.config/foot/foot.ini
+clar
+clear
+cd Projects/u
+clear
+hx .
+cd Projects/u
+clear
+cd Projects/u
+clear
+xmake clean u; xmake build u
+cd Projects/u
+clear
+xmake clean u; xmake buil du
+xmake clean u; xmake build u
+hx .
+cle
+clear
+ls
+cd u
+clear
+ls
+cd u
+clear
+ls
+cd metaprogramming
+ls
+hx .
+mkdir constriants
+hx .
+clear
+ls
+clear
+ls
+touch properties.cppm
+touch functions.cppm;
+clerar
+ls
+clear
+ls
+ls constriants/
+rm constriants/
+ls
+clear
+ls
+hx .
+ls
+clear
+ls
+hx properties.cppm
+clear
+cd Projects/u
+cd u
+clear
+hx .
+clear
+ls
+cd u
+ls
+cd metaprogramming/
+ls
+bat constraints*
+clear
+ls
+rm constraints-construction.cppm constraints-types.cppm constraints-qualifiers.cppm
+clear
+paru -Qqe | rg ttf
+paru -Qqe | rg otf
+paru -Rsn sdl2_ttf
+clear
+paru -S paru -S font-manage
+paru -S paru -S font-manager
+paru -S font-manager
+clear
+ls
+cd /usr/share/fonts/croscore/Arimo-Regular.ttf
+cd /usr/share/fonts/
+clear
+ls
+ls **/*
+clear
+ls
+rm -r noto
+sudo rm -r noto
+clear
+ls
+rm -r gnu-free
+sudo rm -r gnu-free
+ls encodings
+clear
+ls
+ls croscore
+sudo rm -r croscore
+ls adobe-source-code-pro/
+ls TTF
+clear
+ls
+rm -r adobe-source-code-pro
+sudo rm -r adobe-source-code-pro
+clear
+ls
+ls ubuntu
+rm -r ubuntu
+sudo rm -r ubuntu
+ls TTF
+ls TTF | rg Fira
+ls TTF 
+clear
+ls
+ls --help
+ls --help | rg ignore
+clear
+ls --help
+ls TTF/**/* | where name !~ Fira
+ls TTF/**/* | where name !~ Fira | sudo rm
+ls
+ls TTF
+ls TTF/**/* | where name !~ Fira | each {|i| sudo rm $i}
+ls TTF
+ls TTF/**/* | where name !~ Fira | each {|i| sudo rm $i}
+ls TTF/**/* | where name !~ Fira | each {|i| sudo rm ($i | get name)}
+ls TTF
+paru -Qqe | fira
+paru -Qqe | rg fira
+paru -Rsn ttf-fira-code
+clear
+paru -Qqe | rg fira
+clear
+ls
+ls TTF
+ls TTF/**/* | where name !~ FiraCode | each {|i| sudo rm ($i | get name)}
+ls TTF
+clear
+ls
+ls cantarell/
+rm cantarell/
+rm cantarell/ -r
+sudo rm cantarell/ -r
+clear
+ls
+paru -Rsn font-manager
+clear
+paru -Scc
+clera
+clear
+paru -S ttf-google-fonts-git
+paru -Rsn adobe-source-code-pro-fonts
+paru -Q | rg ttf
+paru -Rsn ttf-croscore
+clear
+ls
+paru -S adobe-source-code-pro-fonts
+paru -S all-repository-fonts
+c;rar
+clear
+cd /usr/share/fonts/
+ls
+clear
+exit
+hx .
+clefar
+clear
+hx .
+clear
+ls
+hx .
+clear
+ls
+cat constraints-comparisons.cppm
+hx .
+clear
+ls
+rm constraints*
+clear
+ls
+paru -S obs
+paru -S obs-bin
+paru -S obs-studio
+paru -Qqe | xdg
+paru -Qqe | rg xdg
+paru -S xdg-desktop-portal-wlr
+clear
+paru -S pipwire
+paru -Qqe | rg pipe
+clear
+hx ~/.config/nushell/env.nu
+clear
+print $XDG_SESSION_TYPE
+print $XDG_CURRENT_DEKSTOP
+print $XDG_CURRENT_DESKTOP
+sh
+echo $XDG_SESSION_TYPE
+/usr/lib/xdg-desktop-portal -r & /usr/lib/xdg-desktop-portal-wlr
+clear
+hx .
+clear
+reboo
+reboot
+clear
+exit
+clear
+ls
+clear
+cd Projects/u
+ls
+ffmplay `2023-06-17 16-34-07.mkv`
+paru -S ffmplay
+clear
+ls
+ffplay `2023-06-17 16-34-07.mkv`
+clear
+sldkjfds
+sdlkfjsd;lkjfsdjflkajf
+sd;lfkj
+neofethc
+clear
+ls
+rm `2023-06-17 16-34-07.mkv`
+clear
+ls
+rm main.cpp
+clear
+ls
+cd Projects/u
+clear
+ls
+hx .
+clear
+ls
+cd u
+clear
+hx .
+clear
+xmake clean u; xmake build u
+cd Projects/u
+clear
+xmake clean u; xmake build u
+hx .
+clear
+ls
+cd u
+clear
+ls
+cd metaprogramming
+ls
+rm *-primary *-composite
+rm *-primary* *-composite*
+clear
+ls
+hx .
+clear
+ls
+mv properties-comparison.cppm properties-comparisons.cppm
+mv properties-comparisons.cppm properties-comparison.cppm
+clear
+ls
+mv properties-categories.cppm properties-category.cppm
+h x.
+hx .
+clear
+ls
+clera
+cler
+clear
+xmake clean u; xmake build u
+hx .
+clear
+ls
+mkdir properties
+ls | where name =~ properties
+ls | where name =~ properties | notdir
+ls | where name =~ properties && type == file
+ls | where name =~ properties and type == file
+ls | where name =~ properties and type == file and name != properties.cppm
+ls | where name =~ properties and type == file and name != properties.cppm | each {|f| properties/($f | str substring 11..($f|str length))}
+ls | where name =~ properties and type == file and name != properties.cppm | each {|f| $'properties/($f | str substring 11..($f|str length))'}
+ls | where name =~ properties and type == file and name != properties.cppm | get name | each {|f| $'properties/($f | str substring 11..($f |str length))'}
+ls | where name =~ properties and type == file and name != properties.cppm | get name | each {|f| mv $f $'properties/($f | str substring 11..($f |str length))'}
+clear
+ls
+ls properties
+mkdir functions
+mv functions-modifiers.cppm functions/modifiers.cppm
+clear
+hx .
+clear
+ls
+rm properties/properties.cppm
+clear
+hx .
+clear
+ls
+cd properties
+ls
+mv category.cppm categories.cppm
+mv comparison.cppm comparisons.cppm
+mv object.cppm objects.cppm
+mv operation.cppm operations.cppm
+mv relationship.cppm relationships.cppm
+clear
+ls
+hx .
+clear
+ls
+cd ..
+ls
+hx .
+clear
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clefar
+clear
+xmake clean u; xmake buil du
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+hx .
+clear
+ls
+cd ...
+clear
+l
+ls
+clear
+sl
+cd u
+clear
+ls
+hx test.cpp
+clear
+sl
+clear
+ls
+cd metaprogramming
+celar
+ls
+clear
+sl
+clear
+sl
+l
+ls
+clear
+sl
+clear
+ls
+celar
+sl
+wc
+wc --help
+man wc
+clear
+ls
+cd Projects/u
+clear
+ls
+cd u
+clear
+ls
+ls **/* | wc
+wc --help
+clar
+clear
+cd Projects/u
+clear
+ls
+cd u
+clear
+ls
+clear
+ls
+ls **/*
+clear
+ls
+rm hack.cpp
+cd u
+clear
+ls
+ls metaprogramming/
+cd metaprogramming
+ls
+mv constants ../
+mv constants.cppm ../metaprogramming-constants.cppm
+clear
+ls
+mv properties.cppm ../meta-properties.cppm
+clear
+ls
+mv functions.cppm ../meta-functions.cppm
+clear
+sl
+cd ..
+clear
+ls
+mv metaprogramming.cppm meta.cpp
+mv meta.cpp meta.cppm
+mv metaprogramming-constants.cppm meta-constants.cppm
+clear
+ls
+mv metaprogramming meta
+clear
+ls
+cd mea
+cd meta/
+clear
+ls
+ls functions/
+ls properties
+cd ..
+clear
+ls
+hx .
+clear
+ls
+rm meta/functions/ -r
+clear
+ls
+h x.
+hx .
+clear
+ls
+mv meta-properties.cppm meta-traits.cppm
+hx meta-traits.cppm
+clear
+ls
+cd meta
+clear
+ls
+cd properties
+ls
+ls | cat name
+ls | cat
+ls | get name | bat 
+ls | get name
+ls | get name | each {|f| bat $f}
+cd ..
+clear
+hx .
+cd ..
+clear
+hx .
+clear
+ls
+ls meta/**/*
+h x.
+rm -r meta
+clear
+ls
+hx .
+clear
+cd Projects/u
+clear
+ls
+xmake clean u; xmake build u
+hx .
+cd ..
+clera
+ls
+cd ..
+clear
+ls
+cd u
+clea
+lcear
+clear
+h  .
+clear
+hx .
+clear
+ls
+cd u
+clear
+ls
+bat meta.cppm
+clear
+ls
+cd ..
+sl
+ls
+hx .
+clear
+clear
+xmake clean u; xmake build u
+clera
+clear
+h x .
+clear
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+hx .
+clear
+sl
+ls
+cd u
+clear
+ls
+mv meta-traits_functions.cppm meta-functions_traits.cppm
+clera
+ls
+clear
+ls
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmaek clean
+xmake clean u; xmake build u
+clear
+xmake cleanclear
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake clean u; xmake build u
+clear
+xmake buil du
+clear
+xmake build u
+clear
+xmake build u
+clear
+xmake build u
+clear
+xmake build u
+clear
+xmake build u
+clear
+xmake build u
+clear
+cd Projects/u
+clear
+cd u
+ls
+clear
+xmake build u
+clear
+ clear
+xmake 
+xmake build u
+clear
+xmake build u
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+xlae
+clear
+xmake b u
+clear
+xmake b u
+xmake clean
+xmake b u
+clear
+xmake b u
+clear
+xmake bu 
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b
+xmkae b u
+clear
+xmake b u
+clear
+xmake b 
+xmake b u
+clear
+xmake b
+xmake b u
+lclear
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+lclear
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake bu
+xmake c u; xmake b u
+clear
+xmake b u
+clear
+xmake bu
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+clcear
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+clear
+xmake b u
+xmake clean; xmake b
+xmake c u; xmake b u
+clear
+xmake b u
+clear
+xmake b u
+xmake c u; xmake b u
+hx .
+hx main.cpp
+clear
+ls
+rm main.cpp
+clear
+xmake c u; xmak eb u
+xmake c u; xmake b u
+clear
+xmake c u; xmake b u
+hx .
+clear
+ls
+ls u
+rm u/test.cpp
+clear
+clear
+xmake c u; xmake b u
+clear
+ls
+cd u
+clear
+ls
+cd u
+clear
+ls
+hx .
+clfear
+ls
+clear
+ls
+bat meta-functions_traits.cppm
+hx .
+rm meta-*
+clear
+ls
+hx .
+cd Projects/u
+clear
+xmake c u; xmake b u
+cd ..clear
+xlcear
+xmake b u -v
+clear
+xmake clean u
+xmake -v b u 
+clear
+xmaek b -v u
+xmake b -v u
+xmake c u
+xmaek b -w u
+xmake b -w u
+clear
+cd
+clear
+cd Projects/u
+celar
+ls
+clear
+ls
+xmake c; xmake b -w u
+xmake c; xmake b -wv u
+clar
+clear
+xmake c; xmake b -wv u
+clear
+xmake c; xmake b -wv u
+clear
+xmake c; xmake b -wv u
+clear
+hx xmake.lua
+clear
+ls
+cp .clang-format ../cpp-template/
+cp xmake.lua ../cpp-template
+clear
+ls
+cd ../cpp-template/
+clear
+ls
+git add -A; git commit -am "."; git push
+cd ..
+clear
+ls
+cd u
+clear
+git ad d-A
+git add -A
+git init
+clear
+ls
+git branch -M main
+git add -A
+git commit -am "."
+git remote add origin git@github.com:Kimhyr/u.git
+git push
+git push -u origin main
+clear
+ls
+clear
+ls
+hx .
+clear
+ls
+git ad d-A
+clear
+hx .
+clear
+ls
+hx xmake.lua
+clear
+ls
+hx makefile
+clear
+ls
+rm makefile
+clear
+hx format.nu
+clear
+ls
+ls u/**/* | get name
+ls u/**/* | get name | clang-format
+hx format.nu
+clear
+ls
+sh
+clear
+ls
+hx ..
+clear
+ls
+hx u
+clear
+sh
+hx .
+clear
+ls
+mv format.nu format.sh
+hx format.sh
+clear
+ls
+chmod +x format.sh
+clear
+ls
+./format.sh
+clear
+hx .
+clear
+ls
+hx .
+clear
+ls
+hx xmake.lua
+clear
+ls
+ls build/linux/x86_64/release/
+xmake c; xmake b -wv u
+hx xmake.lua
+clear
+ls
+ls tests
+hx tests/meta.cpp
+clear
+ls
+hx format.sh
+clear
+ls
+cd Projects/u
+make
+xmake
+clear
+hx xmake.lua
+clear
+xmake c u; xmake b -wv u
+clqr
+clear
+xmake c; xmake b -wv
+clear
+xmake c; xmake b -wv
+clear
+xmake c; xmake b -wv
+clear
+xmake c; xmake b -wv
+clear
+xmake c; xmake b -wv
+clear
+xmake c; xmake b -wv
+clear
+xmake c; xmake b -wv
+xmake c u; xmake b -wv u
+xmake c; xmake b -wv
+xmake c u; xmake b -wv u; xmake c; xmake b -wv
+hx xmake.lua
+hx .
+clear
+ls
+cd tests
+ls
+mv meta.cpp tests-meta.cppm
+hx .
+clear
+ls
+cd ..
+clear
+clear
+xmaek b -wv
+xmake b -wv
+xmake c; xmake b -wv
+hx .
+clear
+ls
+clear
+exit
+hx .
+clear
+hx .
+./format
+./format.sh
+clear
+ls
+hx format.sh
+./format.sh
+ls tets
+ls tests
+clear
+./format.sh
+clear
+ls
+sh
+ls -R
+sh
+clear
+ls
+hx format.sh
+clear
+./format.sh
+hx .
+clear
+ls
+clear
+paru -Syu
+nmtui
+paru -Syu
+clear
+paru -Qqe
+paru -Qqe | paru -S
+paru -Qqe
+paru -Qqe | each {|i| $i | describe}
+paru -Qqe | split
+paru -Qqe | split column
+paru -Qqe | split row "\n"
+paru -Qqe | split row "\n" | each {|i| $i | describe }
+paru -Qqe | split row "\n" | each {|i| paru -S $i; input}
+paru -Qqe | paru -S
+paru -Qqe
+sh
+str replace
+paru -Qqe | str replace "\n" ' '
+paru -Qqe | str replace "\r\n" ' '
+paru -Qqe | str replace ' '
+paru -Qqe | str replace "\n" ' '
+paru -Qqe
+paru -Qqe | str join
+paru -Qqe | str join ' '
+paru -Qqe | str join
+clear
+paru -Qqe | list
+clear
+sh
+clear
+hx pkg.sh
+clear
+ls
+sh pkg.sh
+paru -Qm
+clrea
+clear
+ls
+cd Projects/u
+clear
+ls
+paru -Qqe | split row "\n"
+paru -Qqe | split row "\n" | join
+paru -Qqe | split row "\n" | join --help
+paru -Qqe | split row "\n" | join --help -i
+paru -Qqe | split row "\n" | join -i
+paru -Qqe | split row "\n" | join
+clear
+paru -Qqe | str replace -a "\n" ' '
+paru -Qqe | str replace -a "\n" ' ' | paru -S
+paru -Qqe | str replace -a "\n" ' ' | echo
+paru -Qqe | str replace -a "\n" ' ' | print
+paru -Qqe | str replace -a "\n" ' ' | paru -S
+paru -Qqe | str replace -a "\n" ' ' | paru
+paru -Qqe | str replace -a "\n" ' ' | pacman -S
+paru -Qqe | str replace -a "\n" ' ' | sudo paru -S
+paru -Qqe | str replace -a "\n" ' ' | sudo pacman -S
+paru -Qqe | str replace -a "\n" ' ' | print
+paru -Qqe | str replace -a "\n" ' ' | save file
+clear
+ls
+cd file
+hx file
+clear
+ls
+sh 
+file
+paru -Qqe | str replace -a "\n" ' ' | paru -S -
+paru -Qqen | str replace -a "\n" ' ' | paru -S -
+paru -Qqen | str replace -a "\n" ' ' | sudo pacman -S -
+paru -Qqen | str replace -a "\n" ' ' | paru -S -
+paru -Qqen
+pacman -S
+pacman -h
+paru -Qqen | str replace -a "\n" ' ' | paru -S -
+paru -Qe | str replace -a "\n" ' ' | paru -S -
+paru -Qe | str replace -a "\n" ' '
+paru -Qe
+paru -Qqe | str replace -a "\n" ' ' | paru -S -
+paru -Qqe | str replace -a "\n" ' ' | paru -S - --debug
+paru -Qqe | paru -S - --debug
+clear
+sudo helix /etc/hostname
+sudo helix /etc/hosts
+clear
+ls
+lcear
+usermod --help
+usermod --help | rg -d
+usermod --help | rg '-d'
+usermod --help | rg "-d"
+usermod --help | rg \"-d\<\n>"
+clear
+usermod --help
+clear
+usermod -l emhyr k
+su root
+exit
+sway --help
+clear
+ls
+clear
+ls
+git init
+clear
+ls
+clear
+ls
+clear
+ls
+ls .config
+clear
+ls
+cd Projects
+ls
+rm .Hack .core .libcore
+rm .Hack .core .libcore -r
+clear
+l
+ls
+rm test -r libfart libcore
+clear
+ls
+cd hack
+git add -A; git commit -am "."; git push
+cd ..
+ls
+clear
+ls
+cd c-template
+ls
+git add -A
+git init
+clear
+ls
+git add -A
+git commit -am "."
+git push -u origin main
+bat makefile
+cd ..
+sl
+ls
+rm c-template
+rm c-template -r
+clear
+ls
+cd cpp-template
+ls
+git add -A; git commit -am "."; git push
+cd ..
+ls
+cd sbar
+git add -A; git commit -am "."; git push
+cd ..
+ls
+clear
+ls
+cd u
+git add -A; git commit -am "."; git push
+cd ..
+cd hack
+git add -A; git commit -am "."; git push
+c d../..
+cd
+clear
+ls
+ls .ssh
+claer
+clear
+ls
+rm pkg.sh
+clear
+ls
+hx setup.sh
+paru -Qqe | save packages.pacman
+clear
+ls
+hx .gitignore
+efibootmgr 
+clear
+ls
+pacman -Qqe
+hx packages.pacman
+clear
+ls
+ls .config
+clear
+git add -A; git commit -am "."
+ls .config/nvim
+rm .config/nvim/.git -r
+git add -A; git commit -am "."
+clear
+ls
+ls .local
+ls .local/bin
+ls .local/share
+ls .local/state
+cp dotfiles/.config . -r
+clear
+ls
+ls -a
+exit
+clear
+pacman -S ttf-firacode-nerd
+git clone https://aur.archlinux.org/paru.git
+cd paru; makepkg -si
+rustup
+rustup default stable
+clear
+nu -v
+exit
+nu
+clear
+ls
+ls dotfiles
+cd dotfiles
+clear
+ls
+paru 
+clear
+hx packages.pacman
+makepkg -si
+clear
+reboot
+clear
+paru -S ttf-firacode-nerd
+clear
+ls
+cd .config
+ls
+hx .
+clear
+ls
+cd .config
+clear
+ls
+cd foot
+ls
+ls themes
+hx .
+clear
+exit
+cd 
+ls
+ls .config
+paru -S bemenu
+clear
+hx .config/sway/config
+clear
+ping google.com
+clear
+ls
+mako
+paru -S mako
+mako
+swayidl
+swayidle
+swayidle --help
+swaylock
+swaybg
+paru -Syu
+paru -S clang-git
+clear
+ls
+cd dotfiles
+ls
+bat 
+paru -S bat
+clear
+ls
+paru -Qqe
+clear
+ls
+mkdir Projects
+cd Projects
+ls
+mkdir c
+rm -r c
+mkdir cc
+cd cc
+clear
+ls
+clear
+c d..
+cd ..
+clear
+git clone https://github.com/Kimhyr/cpp-template
+clear
+ls
+rm cc
+mv cpp-template/ cc
+cd cc
+clear
+ls
+rm .git -r
+clear
+ls
+hx .
+clear
+ls
+hx xmake.lua
+clear
+ls
+hx source/main.cpp
+clear
+ls
+rm source/main.cpp
+hx source/main.c
+clear
+xmake
+gc
+gcc
+clear
+hx xmake.lua
+clear
+xmake 
+xmake run
+hx .
+clear
+xmake c; xmake b -wv
+hx .
+clear
+xmake c; xmake b -wv
+xmake run
+hx .
+clear
+ls
+hx source/lexeme.h
+hx ~/.config/helix/languages.toml
+clear
+ls
+paru -S ripgrep obs-studio sccache ttf-google-fonts-git wl-clipboard xdg-desktop-portal-wlr xorg-xwayland xmake
+paru -S ripgrep obs-studio sccache wl-clipboard xdg-desktop-portal-wlr xorg-xwayland xmake
+paru -S ttf-google-fonts-git
+hx .
+clear
+ls
+cd source
+ls
+mv lexeme.h token.h
+hx .
+clear
+ls
+mv token.h lexer.h
+man mmap
+paru -S map
+paru -S man
+clfar
+clear
+man mmap
+paru -S man
+clear
+paru -S manlinux
+clear
+paru -S mandb
+paru -S man-db
+clear
+man mmap
+man 2 mmap
+hx lexer.h
+clear
+ls
+c d..
+cd ..
+hx .
+clear
+neofetch
+linux
+uname -r
+unma e- r
+clear
+lsb_release -a
+clear
+uname - r
+uname -r
+btop
+htop
+clear
+ls
+clear
+ls
+rm -r paru 
+ls dotfiles/
+hx dotfiles
+rm -r dotfiles
+clear
+sl
+ls
+cd Projects
+ls
+clear
+ls
+cd c
+cd cc
+clear
+ls
+hx .
+clear
+ls
+cd source
+ls
+touch source.h
+hx .
+hx ~/.config/helix/languages.toml
+clear
+hx .
+clfear
+hx ../.clang-format
+clear
+ls
+paru -S clang-git
+sudo rm /usr/lib/libLTO.so /usr/lib/libRemarks.so
+hx .
+clear
+ls
+h x.
+clear
+hx .
+clea
+hx ~/.config/helix/languages.toml
+hx ~/.config/helix/config.toml
+clear
+ls
+hx .
+clear
+lx
+cd Projects/cc
+clear
+ls
+mkdir tests
+hx tests/main.c
+clear
+cd ..
+xmake
+clear
+xmake 
+xmake
+clear
+xmake
+clear
+xmkae c
+xmake c
+xmake
+clear
+xmake
+claer
+clear
+xmake
+cleaf
+clear
+xmake
+clear
+xmake
+lcear
+clear
+hx .
+clear
+ls
+cd source
+ls
+cd ...
+clear
+ls
+gh
+gh auth login
+clear
+ls
+git clone git@github.com:Kimhyr/u
+ssh-keygen -t ed25519 -b 4096 -C 'kingemhyr7210@gmail.com'
+clear
+eval $'(ssh-agent -s)'
+$'(ssh-agent -s)'
+ssh-add ~/.ssh/id_ed25519
+sh
+echo ~/.ssh/id_ed25519.pub
+nat ~/.ssh/id_ed25519.pub
+bat ~/.ssh/id_ed25519.pub
+bat ~/.ssh/id_ed25519.pub -r
+bat ~/.ssh/id_ed25519.pub --help
+cat ~/.ssh/id_ed25519.pub
+clear
+ls
+git clone git@github.com:Kimhyr/u
+cd u
+clear
+ls
+systemctl
+clear
+cd
+cd .config/systemd/
+ls
+cd user
+ls
+systemctl start sway
+systemctl start sway -u
+systemctl start sway -U
+systemctl --help
+clear
+systemctl --user enable sway
+systemctl --user start sway
+systemctl --user status sway
+clear
+cd
+cd Projects/
+clear
+sl
+cd u
+clear
+ls
+./format.sh
+hx .
+clear
+ls
+cd ..
+ls
+cd cc
+clear
+hx .
+clear
+ls
+cd ..
+ls
+rm -r cc
+clear
+cargo
+clear
+ls
+git clone git@github.com:Kimhyr/hack
+cd hack
+hx .
+clear
+ls
+cd ..
+clear
+ls
+clear
+ls;
+cargo new saw
+clear
+cd saw
+cd ..
+ls
+rm -r saw
+clear
+cargo new cc
+cd cc
+celar
+ls
+clear
+ls
+hx .
+cd Projects/
+clear
+ls
+git clone https://github.com/icxd/c-compiler.git
+lea
+clear
+ls
+cd c-compiler/
+clear
+gh repo edit Kimhyr/Hack-RARSHDFLKJSDF
+gh repo edit Kimhyr/Hack-RARSHDFLKJSDF --private
+gh repo edit Kimhyr/Hack-RARSHDFLKJSDF
+c;ear
+clear
+ls
+cd Projects/
+python
+clear
+ls
+hx privatize-github.py
+clear
+ls
+mkdir privatize-github
+mv privatize-github.py privatize-github/
+clear
+cd privatize-github/
+clear
+ls
+mv privatize-github.py main.py
+hx .
+pip install requests
+paru -S pip
+paru -S python-pip
+lccea
+clear
+pip install requests
+ls
+pip install requests
+paru -S python-requests
+clfear
+clear
+cd Projects/privatize-github/
+clear
+ls
+python main.py
+hx .
+clear
+cd ..
+ls
+rm privatize-github/
+rm privatize-github/ -r
+clear
+git clone https://github.com/ethannam/git-privatize
+cd git-privatize/
+clear
+ls
+hx .
+cd ..
+ls
+rm git-privatize/
+rm git-privatize/ -r
+cd Projects/
+ls
+mkdir github
+cd github
+clear
+cd Projects/github/
+python main.py
+hx main.py
+clear
+ls
+curl https://api.github.com/users/Kimhyr/repos
+curl https://api.github.com/users/Kimhyr/repos | parse
+curl https://api.github.com/users/Kimhyr/repos | from json
+curl https://api.github.com/users/Kimhyr/repos | from json | get idd
+curl --help
+clear
+gh repo list
+gh repo list --help
+gh repo list --visibility private 
+gh repo list --visibility public
+gh repo -h
+gh repo -h | rg private
+gh repo -h | rg visi
+gh repo edit -h
+gh repo edit --visibility
+gh repo edit --visibility private
+gh list
+git list repos
+gh
+gh repo list
+gh repo list -h
+gh repo list --json=name
+gh repo list --json=name | from json | get name
+gh repo list --json=name | from json
+gh repo list --json=name | from json | get name
+clear
+ls
+cd Projects/github/
+clear
+ls
+gh repo list -h
+gh repo list --visibility=public -h
+gh repo list --visibility public -h
+gh repo list --visibility=public
+gh repo list --visibility public
+gh repo list --visibility=public
+gh repo list --visibility=public clear
+clear
+ls
+nu privatize.nu
+gh repo list --visibility=archive
+gh repo list --archived
+gh repo list --archived --visibility=public
+clear
+gh repo edit -h
+gh repo edit -h | rg archive
+gh repo edit --help | rg archive
+gh repo edit --help
+gh repo --help
+gh repo unarchive -h
+clear
+ls
+nu privatize.nu
+clear
+cd Projects/
+ls
+cd c-compiler/
+clear
+ls
+hx .
+clear
+ls
+hx Makefile
+clear
+ls
+hx .
+clear
+l
+ls
+clear
+hx .
+clear
+hx .
+clear
+hx. 
+hx .
+clear
+ls
+cd ..
+clear
+ls
+rm c-compiler/
+rm c-compiler/ -r
+clear
+ls
+ls **/*
+clear
+ls
+cd 
+clear
+cd Projecst/u
+cd Projects/u
+clear
+ls
+rm -r ../github/
+clear
+hx .
+clear
+ls
+cd Projects/u
+ls
+xmake b u
+clear
+ls
+hx xmake.lua
+xmake b u
+clear
+ls
+ls build/u/
+clear
+xmake
+ls
+xmake c
+clear
+paru -S marksman
+paru -S lua-language-server
+hx README.md
+clear
+ls
+hx xmake.lua
+clear
+ls
+paru -Rsn lua-language-server
+clear
+ls
+hx README.md
+marksman 
+clear
+ls
+hx .
+clar
+clear
+ls
+cd Projects/u
+clear
+hx README.md
+clear
+cd .
+cd ..
+mv u core
+cd core
+clear
+ls
+gh repo edit --help
+gh repo rename
+clear
+ls
+mv u core
+hx xmake.lua
+clear
+ls
+hx format.sh
+clear
+ls
+mv format.sh format
+clear
+./format
+clear
+ls
+hx .
+rm .xmake build -r
+hx .gitignore
+clear
+ls
+hx file
+rm file
+cd core
+clear
+ls
+mv u core
+mv u.cppm core.cppm
+cd u
+ls
+cd core
+ls
+cd ..
+clear
+hx .
+celar
+clear
+ls
+hx .
+clear
+ls
+hx .
+celar
+ls
+clear
+ls
+cd ..
+ls
+celar
+clear
+ls
+hx .
+clear
+neofetch
+hx .
+paru -Scc; 
+clear
+paru -Yc
+clea
+clear
+paru -Qtdq
+paru -Rsn ccache cmake
+paru -S clang-git
+cler
+clear
+paru -R --help
+clear
+ls
+clear
+ls
+ls .cache
+ls .cache/helix
+ls .cache/ccache
+rm -r .cache/ccache/
+celar
+ls
+clear
+ls
+ls .cache
+ls .cache/fontconfig/
+du
+clear
+ls
+du .cache
+du -sh .cache
+du --help
+du -ar .cache
+du -ar -d 8 .cache
+clear
+ls
+cd .cache
+ls
+ls | get name | each {|f| du $f}
+ls | get name
+ls | get name | each {|f| du -a $f}
+clear
+ls
+du mesa_shader_cache/ 
+du paru
+ls paru/
+clang
+clang
+clear
+ls
+cd .cache/paru
+ls
+cd clone
+ls
+cd clang-git
+ls
+mkpkg -si
+cd .cache/paru/clone/
+clear
+cd clang-git
+clear
+ls
+clear
+ls
+ls pkg
+clear
+ls
+cd llvm-project/
+ls
+hx .
+clear
+ls
+ls refs
+cd ..
+clear
+ls
+ls src
+cd src/llvm-project/
+ls
+clear
+ls
+ls build/
+clear
+cd Projects/u
+cd Projects/core
+clefar
+clear
+ls
+hx xmake.lua
+hx .
+clear
+makepkg -si
+clang
+paru -U
+clear
+ls
+clear
+ls
+clear
+ls
+cd .cache/paru/clone/
+ls
+cd clang-git
+clear
+ls
+sudo pacman -U
+clear
+ls
+pacman -U clang-git-r464814.c26c5e47ab9c-1-x86_64.pkg.tar.zst
+sudo pacman -U clang-git-r464814.c26c5e47ab9c-1-x86_64.pkg.tar.zst
+clang
+clang -v
+clea
+rexit
+clear
+cd Projects/core
+clear
+hx xmake.lua
+xmake
+h x.
+hx .
+clea
+clear
+ls
+hx ~/.config/clangd/config.yaml
+hx .clangd
+clear
+xmake
+hx .
+clear
+xmake clean core; xmake build core
+helix .
+neofetch
+clear
+paru -S dorion-bin
+paru -Scc
+la
+clear
+du
+du .cache/
+cd .cache
+du
+cd paru
+du
+cd clone
+ls
+du
+rm * -r
+cd
+clea
+ls
+clear
+ls
+du
+cd .rustup
+ls
+cd
+ls
+du
+cd .rustup
+clear
+du
+cd toolchains
+du
+cd stable-x86_64-unknown-linux-gnu/
+ls
+du
+cd
+clear
+killall dorion
+killall dorion-bin
+clear
+reboot
+clear
+paru -Rsn dorion
+paru -Rns dorion-bin
+ls
+ls .config
+rg .
+clear
+rg r
+clear
+ls
+rg dorion
+clear
+grep f
+rg f
+clear
+rg ifndef
+grep ifndef
+clear
+ls
+paru -S dorion-bin
+clera
+clear
+paru -Rns dorion-bin
+clear
+mkdir Downloads
+cd Downloads/
+ls
+paru -Syu webkit2gtk-4.1 libappindicator-gtk3
+paru -S abaddon
+killall abaddon
+abaddon-bin
+clea
+clear
+cd Projects/
+clefar
+ls
+clear
+cargo new discord-status
+cd discord-status/
+clear
+ls
+hx token
+clear
+sl
+ls
+cargo add discord
+cargo b
+paru -S pkg-config
+paru -S openssl
+clear
+ls
+cargo b
+clear
+cargo c
+cargo clean
+ls
+cargo b
+openssl 
+clear
+ls
+clar
+clear
+b
+cargo b 
+cargo b  | rg error
+clear
+ls
+hx Cargo.toml
+clear
+cargo clean
+reboot
+clear
+ls
+clear
+ls
+clear
+cd Projects/discord-status/
+clear
+ls
+cargo clean
+clear
+sccache
+clear
+ls
+cd .cargo
+ls
+clear
+cargo b
+which sccache
+hx config.toml
+clear
+ls
+clcear
+clear
+ls
+b
+cargo b
+cargo c
+cargo clean
+cargo b
+clear
+cargo b
+clear
+ls
+hx .
+celar
+rustup
+rustup component add rust-analyzer
+hx .
+rustup component remove rust-analyzer
+paru -S rust-analyzer
+clear
+cd Projects/discord-status/
+clear
+cargo doc
+clear
+ls
+clear
+ls
+hx .
+cargo doc
+cargo docs
+cargo doc --open 
+hx .
+b
+clear
+cargo b
+clear
+ls
+hx ~/.config/nushell/env.nu
+$env | table -e
+$env | table
+$env | table | rg EDITOR
+clear
+l
+ls
+hx token
+let-env DISCORD_TOKEN='NzExMzEyMTk2OTUyNTIyODI0.G0kVd1.8EX1vlH2AOEpDsOEVLMKsEY5VB3MTo5JjP-Ues'
+let-env DISCORD_TOKEN = 'NzExMzEyMTk2OTUyNTIyODI0.G0kVd1.8EX1vlH2AOEpDsOEVLMKsEY5VB3MTo5JjP-Ues'
+clear
+ls
+$env | table | rg DISCORD
+cargo run
+vlrst
+clear
+hx .
+clear
+hx .
+cargo r
+cd Projects/discord-status/
+claer
+clear
+cd Projects/discord-status/
+clear
+cargo doc --open 
+hx .
+clear
+cargo remove discord
+clear
+cargo add discord-rich-presence
+clear
+hx .
+clear
+cargo r
+cargo clean; cargo r
+clear
+ls
+hx .
+clear
+ls
+hx .
+clear
+cargo b
+hx .
+clear
+cargo b
+cargo r
+hx .
+clear
+cd Projects/discord-status/
+clear
+hx .
+clear
+cargo cl
+cargo clean; cargo b
+cargo r
+hx .
+cleawr
+clar
+clear
+cargo r
+paru -S discord
+clear
+hx .
+cargo r
+hx .
+cd Projects/discord-status/
+clear
+cargo r
+cd Projects/discord-status/
+clear
+cargo doc --open
+cd Projects/discord-status/
+cargo b
+cargo r
+cd Projects/discord-status/
+clear
+cargo r
+clear
+cargo r
+cd Projects/discord-status/
+clear
+cargo clean; cargo b
+clear
+ls
+cargo r
+cd Projects/discord-status/
+cargo r
+clear
+hx .
+clear
+cargo r
+hx.
+hx .
+clear
+cargo r
+hx .
+cargo r
+hx .
+clear
+ls
+cargo doc --open 
+clear
+hx .
+cargo r
+hx .
+cargo r
+clear
+hx .
+clear
+cargo r
+clear
+exit
+clear
+ls
+cd .config
+clear
+ls
+paru -S linux-discord-rich-presence
+clear
+clear
+ls
+top
+clear
+linux-discord-rich-presence -c ~/.config/linux-discord-rich-presencerc
+clear
+paru -Rns linux-discord-rpc
+paru -Rns linux-discord-rich-presence
+clear
+paru -Rns discord
+killall discord
+clear
+paru -S btop
+sccache
+clear
+ls
+cd .config
+clear
+ls
+c d..
+clear
+ls
+cd ..
+clear
+ls
+cd Projects/
+git clone git@github.com:Kimhyr/sbar
+clear
+ls
+cd sbar
+make
+clear
+ls
+mv binary/sbar ~/.local/bin/
+mv binary/sbar ~/.local/bin/ -f
+mkdir ~/.local/bin
+mv binary/sbar ~/.local/bin/ -f
+clear
+ls
+clear
+paru -Scc
+clear
+cd
+clear
+du
+clear
+du --help
+stat
+clear
+ls
+stat --help
+clear
+stat .
+clear
+du 
+cd .cache
+du
+ls mozilla/
+du mozilla/firefox/
+clear
+ls
+cd mozilla/firefox/
+ls
+du
+cd 8zipo4f4.default-release/
+ls
+du
+cd cache2/
+ls
+du
+clear
+ls
+cd
+clear
+systemctl --failed
+clear
+journalctl -p 3 -b
+clear
+clera
+ls
+clear
+ls
+cd Projects/
+clear
+ls
+mkdir dotfiles
+clear
+cd dotfiles
+ls
+cp ~/.config/ .
+cp ~/.config/ . -r
+ls
+ls .config/
+clear
+ls
+cd .config
+ls
+rm abaddon/ btop com.dorion.dev/ discord/ gh neofetch procps pulse
+rm abaddon/ btop com.dorion.dev/ discord/ gh neofetch procps pulse -r
+clear
+ls
+cd ..
+sl
+clear
+ls
+git init
+clear
+ls
+ls ~/
+ls ~
+clfear
+ls
+clear
+ls
+ls .config
+cd ..
+clear
+ls
+cd
+clear
+sl
+cd .config
+sl
+clear
+ls
+rm -r abaddon/ com.dorion.dev/ 
+clear
+ls
+rm -r discord/
+ls procps
+ls gh
+gh
+clear
+gh --help
+clear
+ls
+ls gh
+ls pulse
+rm -r procps
+clear
+ls
+cd 
+clear
+ls
+cd Projects/dotfiles/clear
+cd Projects/dotfiles/
+clear
+ls
+h x.
+hx .
+clear
+hx .
+ls
+ls .config
+cd .config
+hx .
+clear
+ls
+cd ..
+clear
+sl
+cp ~/.local/bin/sbar .
+clear
+mkdir .local/bin
+mv sbar .local/bin
+clear
+ls
+ls ~
+cd 
+clear
+ls
+rm -r dorion
+clear
+ls
+ls Downloads/
+cd Projects
+clera
+clear
+ls
+hx .
+cd dotfiles
+git branch -M main
+git remote add origin git@github.com:Kimhyr/dotfiles.git
+git add -A
+git commit -am "."
+git config --global user.email. "kinglanchester@gmail.com"; git config --global user.name "King Emhyr"
+git config --global user.email "kinglanchester@gmail.com"; git config --global user.name "King Emhyr"
+git add -A; git commit -am "."; git push
+git push -u origin main
+git push --help
+git push -u origin main --force
+clear
+git branch -d master
+clear
+gh
+gh repo
+gh repo --help
+git repo edit
+clear
+cd
+clear
+ls
+cd Projects/
+ls
+cd hack
+celar
+ls
+clear
+ls
+hx .
+clear
+ls
+cd u
+clear
+ls
+h x.
+hx .
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+cd core
+clear
+ls
+hx .
+claer
+clear
+ls
+clear
+paru -S pactl brightnessctl
+paru -S pactl
+pactl
+paru -S playerctl
+clear
+hx .config/sway/config
+clear
+lsc
+clear
+ls
+cd Projects/
+clear
+ls
+cd cc
+celar
+ls
+cleaf
+ls
+clera
+ls
+clerq
+clear
+hx.
+paru -S bacon
+paru -Rns rust-analyzer
+hx .
+clear
+clear
+cd Projects/cc/
+clear
+bacon
+clear
+ls
+clar
+bacon 
+cargo metadata
+cargo
+rust
+rustup
+paru -S rustup
+clear
+cargo
+clear
+hx .
+clear
+paru -S rust-analyzer
+hx .
+clear
+s
+ls
+c d..
+celar
+clear
+ls
+cd Projects/core
+clear
+ls
+h x.
+clear
+hx .
+clang-format
+clear
+hx .
+clear
+ls
+rm .clang-format
+clear
+ls
+hx .config/sway/config
+clear
+pare -Syu
+paru -Syu
+clear
+hx .
+paru -S starship
+hx .config/nushell/env.nu
+clear
+paru -Rns starship
+clear
+hx .config/nushell/env.nu
+paur -S nushell-lsp
+paru -S nushell-lsp
+clear
+ls
+cd Downloads/
+clear
+git clone https://github.com/jntrnr/nushell-lsp
+cd nushell-lsp/
+clear
+ls
+npm
+paru -S npm
+clera
+clear
+npm install
+cd
+clera
+nu-lsp
+clear
+ls
+cd Downloads/
+ls
+cd nushell-lsp/
+ls
+cd server/
+ls
+cd src
+ls
+hx server.ts
+clear
+ls
+cd ...
+ls
+cd server/src/
+clear
+hx .
+clear
+ls
+./server.ts
+node
+clear
+ls
+node server.ts
+cd ..
+ls
+node run
+npm run
+clear
+cd ..
+npm run
+ls
+cd server/src/
+ls
+hx ser
+hx server.ts
+cd ...
+clear
+nu install
+npm install
+cd client; npm install; cd ../server; npm install; cd ..
+ls
+cd server/src/
+hx server.ts
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+clera
+ls
+clear
+ls
+cd ..
+git clone https://github.com/jntrnr/nushell/tree/ide
+ls
+git clone https://github.com/jntrnr/nushell/ -B ide
+git clone --help
+git clone https://github.com/jntrnr/nushell/ -b ide
+git clone https://github.com/jntrnr/nushell -b ide
+clear
+ls
+cd nushell-lsp/
+clear
+ls
+hx server/src/server.ts
+clear
+ls
+node .
+node --help
+clear
+ls
+mmode server/src/
+node server/src/server.ts
+clear
+ls
+node run
+clear
+ls
+node run
+npm run
+cd client; npm install; cd ../server; npm install; cd ..
+sh scripts/e2e.sh
+cd ..
+ls
+paru -Qqe | rg nu
+clear
+ls
+rm -r nushell-lsp/
+clear
+ls
+clear
+ls
+cd ..
+ls
+cler
+lcear
+clear
+cd .config/nushell/
+clear
+ls
+clear
+sl
+clear
+ls
+lcear
+ls
+clear
+ls
+clea
+hx .
+clear
+lclear
+clear
+ls
+cd
+clear
+ls
+cd Projects/core
+clear
+hx .
+clear
+git add -A; git commit -am "."; git push
+hx README.md
+clear
+git add -A; git commit -am "."; git push
+hx xmake.lua
+hx README.md
+firefox README.md
+clear
+firefox README.md
+clear
+ls
+hx README.md
+clear
+ls
+git add -A; git commit -am "."; git push
+hx README.md
+clear
+ls
+clcear
+clea
+clear
+ls
+hx README.md
+clear
+git add -A; git commit -am "."; git push
+clear
+ls
+cd .config/nushell
+clear
+ls
+hx .
+clear
+ls
+hx config
+hx .
+clear
+cd Projects/core
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+auto
+xmake
+clear
+xmake
+xmake clean core; xmake build core;
+clear
+hx core
+clear
+xmake
+xmake clean core
+clear
+ls
+xmake clean tests
+clear
+clear
+xmake
+clear
+xmake
+clear
+xmake
+ xmake
+xmake clean 
+xmake clean core; xmake clean tests
+xmake build core; xmake build tests
+xmake build core
+xmake
+xmake build core; xmake build tests
+xmake clean core; xmake clean tests
+xmake 
+xmake clean core; xmake clean tests
+xmake
+clear
+xmake
+xmake clean
+xmake 
+clear
+xmake clean; xmake
+clear
+xmake
+clear
+xmake
+clfear
+clear
+xmake
+clear
+xmkae
+xmake
+paru -S zellij
+clear
+ls
+clear
+clear
+ls
+cd Projects/core
+clear
+ls
+cd Projects/core
+clear
+hx .
+clear
+hx .
+clear
+exit
+clear
+mkdir .confi/zellij
+clear
+lss
+rm .confi -r clear
+ls
+clear
+mkdir .config/zellij; cd .config/zellij
+clear
+zellij setup --dump-config | save config.kdl
+zellij
+clear
+zellij
+clear
+ls
+zellij
+clear
+zellij
+hx .config/nushell/env.nu
+clear
+ls
+zellij
+clear
+zellij
+clear
+btop
+clear
+ls
+cd Projects/core
+clear
+ls
+cd Projects/core
+clear
+ls
+clear
+ls
+clear
+hx .
+clear
+clea
+rls
+clear
+xmake
+clear
+xmake
+clear
+xmake 
+clear
+xmake
+clear
+xmake
+clear
+hx .
+clear
+xmake
+ lclear
+clear
+clear
+xh .
+hx .
+git add -A; git commit -am "."; git push
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmkae
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+cclear
+clear
+xmkae
+xmake
+clear
+xmake
+clear
+ls
+clear
+ls
+cd core
+clefar
+ls
+clear
+ls
+hx core/tests.cppm
+clear
+lcear
+ls
+clear
+ls
+hx ~/.config/helix/themes/gruvbox_dark_hard.toml
+hx .
+clear
+hx .
+clear
+clear
+hx .
+hx .clangd
+clfear
+hx xmake
+clear
+hx README.md
+clear
+xmake
+xmake -v
+clear
+xmkae -v
+xmake v
+clear
+xmake -v
+xmake -v | rg path
+clear
+ls
+ls build/.gens/
+ls build/.gens/**/*
+ls build/.gens/**/*.pcm
+clear
+xmake clean
+xmake clean core; xmake clean tests
+clear
+xmake -vw
+hx xmake.lua
+clear
+xmake
+xmake clean all
+xmake clean
+xmake -vw
+hx xmake.lua
+clea
+rls
+clear
+xmake
+hx xmake.lua
+clear
+xmake
+clear
+xmake clena
+clean
+clear
+hx xmake.lua
+clear
+xmake
+hx xmake.lua
+clear
+xmake clean; xmake
+xmake
+hx xmake.lua
+clear
+xmake
+clear
+xmake clean
+xmake
+hx .config/sway/config
+clear
+hx .config/sway/config
+clear
+clear
+hx .
+clear
+ls
+rm core/tests.cppm
+lcear
+clear
+ls
+hx ../
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd ..
+clear
+ls
+xmake
+hx .
+clear
+xmake
+xmake clean
+xmake
+hx .
+clear
+xmake clean
+xmake 
+hx .
+clear
+xmake
+xmake clean
+xmkae
+xmake
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+clear
+ls
+hx get-modulessh
+hx get-modules.sh
+sh
+clear
+ls
+chmod +x get-modules.sh
+rm get-modulessh
+clear
+ls
+./get-modules.sh
+hx get-modules.sh
+clear
+ls
+./get-modules.sh
+ls
+clear
+ls
+ls modules/
+hx get-modules.sh
+sh
+clear
+hx get-modules.sh
+clear
+ls
+rm -r modules/
+clear
+./get-modules.sh
+clear
+ls
+mv format format.sh
+clear
+ls
+hx .
+clear
+ls
+./get-modules.sh
+ls
+ls modules/
+clear
+ls
+ls core
+clear
+ls
+rm modules/
+rm modules/ -r
+clear
+ls
+hx get-modules.sh
+clear
+ls
+ls core/**/*
+ls core/**/*.cppm
+./get-modules.sh
+ls
+ls include/
+hx get-modules.sh
+clear
+./get-modules.sh
+ls include/**
+ls include/**/*
+clear
+ls
+ls core/**/*.cppm
+sh
+ls
+ls include/
+ls include/core/
+clear
+ls
+rm get-modules.sh
+clear
+hx format.sh
+clear
+ls
+mv format.sh format.nu
+ls
+hx format.nu
+clear
+ls
+rm format.nu
+clear
+ls
+clear
+cp
+cp 
+cp --help
+clear
+cp --help
+clear
+ls core/**/*.cppm
+ls core/**/*.cppm | get name
+ls core/**/*.cppm | get name | {|f| $f | path }
+ls core/**/*.cppm | get name | each {|f| $f | path }
+ls core/**/*.cppm | get name | each {|f| $f | path relative-to core/}
+clear
+ls
+clear
+ls
+chmod +x get-modules.nu
+clear
+ls
+./get-modules.nu
+mkdir --help
+clear
+ls
+clear
+./get-modules.nu
+clear
+ls
+ls include/
+ls include/core/
+rm include - r
+rm include -r
+ls include/core/
+clear
+./get-modules.nu
+cp
+cp --help
+clear
+./get-modules.nu
+ls include/core/
+ls include/core/**/*
+clear
+ls
+ls include/
+ls include/**/*
+clear
+cd include/
+zellij
+clear
+cd Projects/core/
+clear
+ls
+ls include/**/*
+hx get-modules.nu
+clear
+ls core
+hx get-modules.nu
+clear
+hx get-modules.nu
+clear
+ls
+cd core
+ls
+rm iteration.cppm meta.cppm types.cppm utilities.cppm
+clear
+ls
+ls core
+cd ..
+ls
+rm core.cppm
+clear
+ls
+./get-modules.nu
+clear
+ls
+ls include/
+ls include/core/
+clear
+cp --help
+clear
+ls
+path --help
+clear
+./get-modules.nu
+ls include/
+ls include/**/*
+ls include/**/* -t f
+ls include/**/* -
+ls include/**/* -f
+clear
+ls --help
+clear
+ls include/**/* | where type == file
+clear
+ls
+rm -r include/
+clear
+./get-modules.nu
+ls include/**/* | where type == file
+hx get-modules.nu
+clear
+ls
+clefar
+clear
+ls
+nmtui
+clear
+git add -A; git commit -am "."; git push
+clear
+hx .gitignore
+clear
+rm include/ -r
+clear
+git add -A; git commit -am "."; git push
+clear
+mkdir scripts
+clear
+ls
+mv get-modules.nu scripts/copy-modules.nu
+clear
+ls
+hx README.md
+kjclear
+ls
+clear
+ls
+rm basepath -r
+clear
+ls
+hx scripts/copy-modules.nu
+clear
+ls
+hx README.md
+hx README.md
+clear
+git add -A; git commit -am "."; git push
+lcear
+clear
+hx README.md
+clear
+git add -A; git commit -am "."; git push
+clear
+ls
+touch tests/tests-iteration.cppm
+:w
+clear
+clear
+zellij
+clear
+ls
+hx ~/.config/zellij/config.kdl
+clear
+cd Projects/core
+clear
+zellij
+clear
+ls
+hx ~/.config/zellij/config.kdl
+clear
+zellij .
+clear
+ls
+ls core
+clear
+zellij
+clear
+hx ~/.config/zellij/config.kdl
+clear
+ls
+clear
+git add -A; git commit -am "."; git push
+hx .
+clear
+ls
+cd core
+clear
+ls
+cd ..
+clear
+ls
+hx .gitignore
+clear
+ls
+clear
+ls
+hx README.md
+clear
+git add -A; git commit -am "."; git push
+clear
+hx .
+clear
+claer
+ls
+clear
+ls
+hx scripts/copy-modules.nu
+clear
+ls
+ls core
+clear
+hx scripts/copy-modules.nu
+clear
+ls
+git add -A; git commit -am "."; git push
+clcear
+ls
+clear
+ls
+hx ~/.config/zellij/config.kdl
+zellij
+clear
+hx .
+zellij
+clear
+hx ~/.config/zellij/config.kdl
+clear
+zellij
+clear
+uptime
+clear
+neofetch
+clear
+neofetch
+clear
+neofetch
+cd Projects/coe
+cd Projects/core
+cler
+clear
+ls
+hx scripts/copy-modules.nu
+clear
+l
+ls
+clear
+ls
+ls core
+ls core/core
+clear
+celar
+clear
+ls
+cd ..
+clear
+ls
+cd hack
+clear
+ls
+hx .
+rm -r u
+clear
+h x.
+hx .
+clear
+ls
+cp ../core/.clangd .
+clear
+ls
+rm .clang-format
+clear
+ls
+hx .
+clear
+ls
+rm hack/*
+clear
+rm hack/* -r
+clear
+ls
+h x.
+hx .
+clear
+hx .
+clear
+ls
+cd hack
+clear
+ls
+hx .
+rm hack/buffer.cppm
+clear
+ls
+hx hack/text_buffer.cppm
+clear
+ls
+rm hack/text_buffer.cppm
+clear
+ls
+hx hack/editor/text_buffer.cppm
+clear
+ls
+clear
+h x.
+hx ,.
+h x.
+cd .../core/core
+clear
+h x.
+hx .
+hx .
+clear
+cd .../core/core
+clear
+ls
+cd core
+ls
+hx meta
+clear
+ls
+c d..
+ls
+clear
+ls
+mv meta.cppm metaprogramming.cppm
+hx .
+clear
+hx .
+clear
+ls
+mv iteration.cppm iterators.cppm
+hx .
+clear
+ls
+hx containres.cppm
+clear
+ls
+clear
+hx main.cpp
+hx containers.cppm
+clear
+exit
+zellij 
+exit
+neofetch
+reboot
+journalctl -p 3 -b
+systemctl --failed
+clear
+firefox
+paru
+cd .cache/paru/clone/
+ls
+cd
+clear
+paru
+cd Projects/core
+clea
+clear
+:claer
+ls
+clear
+ls
+cd Projects/core
+celar
+ls
+clear
+ls
+cp core/core/metaprogramming.cppm .
+clear
+ls
+sed -i 's/IS_//h' metaprogramming.cppm
+sed -i 's/IS_//g' metaprogramming.cppm
+hx metaprogramming.cppm
+clea
+rls
+clera
+ls
+clear
+ls
+rm metaprogramming.cppm
+clear
+cd core/core
+clear
+zellij .
+clear
+h x.
+clear
+hx .
+clear
+zellij
+celear
+clear
+edit
+exit
+neofetch
+clear
+ls
+cd Projects/core
+paru -Scc
+clear
+paru -Scc
+clear
+ls
+cd
+clear
+cd /
+clea
+rls
+du
+cd usr
+clear
+ls
+du
+cd share
+du
+clear
+exit
+paru -S lunar-client
+clear
+ls
+hx .config/sway/config
+clear
+xdg-mime
+clear
+ls
+mv Downloads/VanillaTweaks_r647899.zip .minecraft/resourcepacks/
+cler
+clear
+paru -S minecraft-launcher
+paru -Rns minecraft-launcher
+clear
+clare
+clear
+ls
+clear
+ls
+cd Projects/core
+clear
+ls
+clea
+rh x.
+clear
+ls
+cd Projects/
+clear
+ls
+mv hack hack-cxx
+clear
+mkdir hack
+clear
+ls
+cd hack
+clear
+cd Projects/hack-cxx
+clear
+ls
+gh repo edit --help
+hx makefile
+clear
+ls
+rm makefile
+wget https://raw.githubusercontent.com/Kimhyr/sbar/main/makefile
+clear
+ls
+hx makefile
+clear
+ls
+mkdir source
+hx source/main.c
+clear
+ls
+make
+clear
+make run
+clear
+ls
+./binary/
+clear
+cd ..
+clear
+ls
+./binary/hack
+clear
+make celan
+make clean
+ls
+ls **/*
+clear
+ls
+hx source/buffer.h
+clear
+ls
+clear
+ls source
+cd source
+clear
+ls
+rm *
+clea
+clear
+ls
+mkdir hack
+clear
+ls
+clear
+cd ..
+ls
+cp makefile source
+cd source
+clear
+ls
+hx makefile
+clear
+ls
+rm makefile
+clear
+ls
+rm hack
+clear
+hx buffer.h
+clear
+ls
+cd ..
+l
+sclear
+clear
+ls
+hx .clang-format
+clea
+clear
+ls
+rm .clang-format
+clear
+ls
+hx source/main.c
+clear
+clea
+rls
+clear
+ls
+amke
+make
+clear
+./binary/hack
+clear
+hx .
+hx ~/.config/helix/languages.toml
+clea
+rls
+clear
+ls
+hx .
+clear
+hx ~/.config/clangd/config.yaml
+clear
+ls
+h x.
+hx .
+hx ~/.config/clangd/config.yaml
+clear
+man mcpy
+man memcpy
+hx .
+clea
+rls
+clear
+hx .
+clear
+ls
+cd soruce
+ls
+cd source
+clear
+ls
+hx memory/fmmap.c
+clear
+ls
+rm memory.c
+clear
+hx .
+clear
+hx ../.clangd
+clear
+ls
+cd .
+cd ..
+clear
+hx .
+clear
+hx .
+clear
+ls
+cd ..
+clear
+ls
+mkdir memory
+cp hack/makefile memory/
+clear
+ls
+cd memory/
+clear
+ls
+hx makefile
+clear
+ls
+mkdir source
+hx source/memory.h
+clear
+cd ..
+ls
+cd hack
+clear
+ls
+hx .
+clear
+ls
+cd source
+ls
+lcear
+clear
+hx .
+clear
+ls
+rm memory/hmalloc.c
+clear
+hx .
+clear
+ls
+mkdir buffer
+hx buffer.c
+clear
+ls
+rm buffer
+clear
+ls
+mv memory/fmmap.c memory.c
+clear
+ls
+rm memory
+clear
+ls
+getconf
+getconf _SC_PAGESIZE
+clear
+hx main.c
+clear
+ls
+clang main.c
+./a.out
+hx buffer.h
+clear
+ls
+c d...
+cd ...
+clear
+ls
+rm -r hack
+mv hack-cxx hack
+clear
+ls
+cd core
+clear
+ls
+clear
+ls
+hx .
+clear
+rm -r ~/.config/clangd/
+clear
+hx .
+clear
+ls
+xmake
+clear
+xmaek
+clear
+xmake clean; xmake
+clea
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clea
+clcear
+clear
+xmake clean core; xmake build core
+clar
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+hx xmake.lua
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmamke
+xmake
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake
+clear
+xmake clean core; xmake build core
+clear
+xmake clean core; xmake build core
+clear
+xmake
+clear
+xmake clean core; xmake build core
+hx .
+lear
+ls
+clear
+ls
+rm core/core/main.cpp
+clear
+xmake clean core; xmake build core
+clar
+clear
+xmake 
+hx .
+clear
+ls
+cd tests
+ls
+mv tests-meta.cppm tests-metaprogramming.cppm
+clear
+cd ..
+clear
+clear
+xmake clean; xmake build
+kjclear
+clear
+xmake clean; xmake build
+clcear
+clear
+xmake clean; xmake build
+clear
+xmake clean; xmake build
+clear
+xmake clean; xmake build
+clear
+xmake clean; xmake build
+clear
+xmake clean; xmake build
+jclear
+clear
+xmake clean; xmake build
+clear
+xmake clean; xmake build
+kkclear
+clear
+xmake clean; xmake build
+clear
+xmake
+xmake clean; xmake build
+clear
+xmake clean core; xmake build core
+xmake clean; xmake build
+hx .
+clear
+ls
+hx .
+clear
+ls
+hx .
+cd Projects/hack
+clear
+ls
+cd ../core
+clea
+rls
+clear
+ls
+cd core
+clear
+ls
+hx .
+clear
+cd ..
+clear
+git add -A; git commit -am "."; git push
+git push
+clear
+git add -A; git commit -am "."; git push
+git push
+clear
+git add -A; git commit -am "."; git push
+clear
+ls
+cd Projects/
+clear
+ls
+cd hack
+clear
+ls
+hx README.md
+clear
+ls
+rm -r u
+clear
+cd ../core
+clea
+rls
+clear
+hx .
+clear
+ls
+xmake clean; xmake build
+hx .
+clear
+l
+lcear
+clear
+xmake clean; xmake build
+hx .
+clear
+ls
+xmake
+clear
+ls
+cd ..
+clear
+ls
+cd hack
+clear
+ls
+cp ../core/core .
+cp ../core/core . -r
+clear
+ls
+hx xmake.lua
+clea
+rls
+clear
+ls
+rm -r test
+clear
+hx .
+cl;ear
+clear
+ls
+cd hack
+clear
+ls
+rm -r *
+clea
+rls
+clear
+ls
+mkdir hack
+paru -S dwarffortress
+cleazr
+rebot
+reboot
+paru -S dfhack
+dfhack
+clear
+ssense
+clear
+paru -Rns dwarffortress dfhack
+paru -Rns dwarffortress
+nmtui
+paru -Rns dwarffortress
+paru -Rns dfhack-bin dwarffortress
+clear
+exit
+clear
+ls
+hx a.out
+clear
+ls
+./a.out
+rm a.out
+clear
+ls
+cd Downloads/
+ls
+unzip Dwarf.Fortress.v50.08.zip
+zip
+zip --help
+claer
+clear
+paru -S unzip
+clear
+ls
+unzip Dwarf.Fortress.v50.08.zip
+clear
+ls
+cd Dwarf.Fortress.v50.08/
+ls
+hx `HOW TO RUN GAME!!.txt`
+clear
+ls
+cd Dwarf.Fortress.v50.08/
+ls
+cd ...
+ls
+rm -R Dwarf.Fortress.v50.08.zip Dwarf.Fortress.v50.08/
+rm -R Dwarf.Fortress.v50.08.zip Dwarf.Fortress.v50.08/ -r
+rm Dwarf.Fortress.v50.08.zip Dwarf.Fortress.v50.08/ -r
+clear
+ls
+clefar
+ls
+clear
+ls
+rm -r .dwarffortress/
+clear
+l
+ls
+clear
+sl
+exit
+clear
+ls
+clear
+hx main.c
+clear
+ls
+cd Projects
+clear
+ls
+cd hack
+clear
+ls
+lcear
+clear
+nmtui
+cclear
+clear
+ls
+cd Projects/
+clear
+ls;
+cd hack
+clear
+ls
+hx .
+clear
+sh
+clear
+bash
+clra
+cl4ar
+lcera
+lcea
+clear
+ls
+cd Projects/
+clears
+clear
+clera
+ls
+clear
+ls
+clear
+ls
+clefar
+clear
+pipwire
+paru -Qqe | pipewire
+paru -Qqe | grep pipewire
+clear
+paru -Qqe | rg desktop
+systemctl --failed
+systemctl status xdg-desktop-wlr
+c.ear.
+clear
+paru -Qqe | rg wire
+clear
+bash
+clear
+ls
+hx .bashrc
+paru
+clear
+bash
+clear
+echo $XDG_CURRENT_DESKTOP
+bech echo $XDG_CURRENT_DESKTOP
+bash 
+celar
+exit
+paru -S pipwire
+clear
+paru -Qqe | rg xwayland
+clear
+paru -S webcord
+clear
+paru -Rns | webcorb
+paru -Rns | webcord
+paru -Rns webcord
+paru -Rns webcord-bin
+clear
+paru -S pipwire-audio
+nmtui
+paru -S pipwire-audio
+paru -S qt5-wayland
+exec 
+clear
+bash
+reboot
+clear
+xshm
+clear
+exit
+paru -Qqe | rg xshm
+clear
+exit
+clear
+paru -S pipwire
+paru -S xdg-desktop-portal-wlr
+clear
+bash
+clear
+ls
+hx .bash_profile
+hx .bashrc
+clear
+exit
+echo $XDG_CURRENT_DESKTOP
+bash
+clear
+/usr/lib/xdg-desktop-portal -r & /usr/lib/xdg-desktop-portal-wlr
+ear
+clear
+ls
+hx .config/nushell/env.nu
+clear
+ls
+cd .config/nushell
+clear
+ls
+clear
+ls
+hx config.nu
+clear
+ls
+hx env
+hx env.nu
+:q
+exit
+bash
+exit
+startss
+clear
+hx .config/nushell/env.nu
+clear
+ls
+clear
+exit
+startss
+clear
+ls
+bash -h
+bash --help
+hx .config/nushell/env.nu
+exit
+clear
+exit
+ea
+rls
+clear
+ls
+cd Projects
+clea
+rls
+clear
+ls
+git clone https://github.com/CollinVo-web/SlappyPets
+clear
+ls
+cd SlappyPets/
+clea
+rls
+clear
+ls
+clear
+paru -S typescript typescript-language-server
+clear
+ls
+mkdir src
+clear
+ls
+mv index.html src
+mv index.js src
+mv style.css src
+clear
+ls
+cd src
+clear
+ls
+hx .
+clear
+ls
+hx index.html
+clear
+ls
+hx style.cs
+hx style.css
+clea
+rls
+clear
+ls
+clear
+cd
+clear
+ls
+cd Projects/core
+clea
+rls
+clear
+ls
+cd ..
+clear
+ls
+cd hack
+clear
+ls
+clear
+cd ..
+ls
+cd SlappyPets/
+clear
+ls
+touch index.html
+hx index.html
+clear
+ls
+rm index.html
+cp ~/Downloads/message.txt .
+clea
+rls
+clear
+ls
+hx message.txt
+clear
+ls
+mv message.txt index.html
+firefox index.html
+clear
+ls
+hx index.html
+clea
+rls
+clear
+ls
+cd ..
+ls
+rm -r SlappyPets/
+clear
+ls
+cd hack
+clear
+ls
+cd hack
+clea
+clear
+hx .
+hx ~/.config/helix/languages.toml
+clea
+clear
+hx .
+clea
+rls
+clear
+ls
+cd hack
+ls
+clear
+ls
+rm text_book-page_table.cppm
+clear
+ls
+hx text_book.cppm
+clea
+clear
+ls
+mv text_book-text_book_page.cppm text_book-page.cppm
+clear
+ls
+clear
+cd Projects/core
+clea
+rls
+clear
+ls
+hx .
+clea
+rls
+clear
+ls
+cd core
+ls
+hx .
+clear
+ls
+clear
+ls
+clear
+cd Projects
+lcea
+rls
+clear
+ls
+clear
+ls
+cd hack
+git add -A; git commit -am "."; git push
+cd ..
+clear
+ls
+cd core
+git add -A; git commit -am "."; git push
+cd ..
+celqr
+clear
+ls
+cd sbar
+git add -A; git commit -am "."; git push
+cd ..
+leca
+clear
+ls
+ls cc/**/*
+clear
+ls
+cd 
+clearls
+clear
+git
+clear
+ls
+git oinit
+clear
+ls
+clear
+git init
+clear
+ls
+hx .gitignrore
+clear
+ls
+git unint
+rm -r .git
+clear
+ls
+clear
+sl
+clear
+git init
+clear
+ls
+clear
+ls
+cd .config
+clea
+rls
+clear
+sl
+ls
+clear
+ls
+hx .gitignore
+clear
+ls
+git add -A
+git commit -am "."
+clear
+ls
+hx .gitignore
+clear
+lg
+git add -A
+git commit -am "."
+clear
+ls
+clear
+ls
+clear
+ls
+cd ..
+ls
+ls .local
+ls .local/bin
+clear
+hx .gitignore
+git add -A
+git remote add origin git@github.com:Kimhyr/dotfiles.git
+git add -A
+clear
+ls
+clear
+exit
+nu
+hx .config/nushell/config.nu
+clear
+ls
+exit
+clear
+ls
+hx
+clear
+ls
+clear
+ls
+clear
+ls
+cd .config
+ls
+rm nvim
+rm -r nvim
+clear
+ls
+mkdir systemd
+paru -S zellij sway wayland xorg-xwayland pipewire wireplumber xdg-desktop-portal-wlr grim slurp mako foot
+paru -S ttf-google-fonts zellij sway wayland xorg-xwayland pipewire wireplumber xdg-desktop-portal-wlr grim slurp mako foot
+paru -S ttf-google-fonts ttf-firacode-nerd
+paru -S ttf-google-fonts-git
+clear
+ls
+paru -S zellij sway wayland xorg-xwayland pipewire wireplumber xdg-desktop-portal-wlr grim slurp mako foot
+clera
+ls
+clear
+ls
+ls systemd/
+clear
+ls
+cd ..
+ls
+hx .local/bin/startwl
+clear
+ls
+cd .local/bin
+ls
+chmod +x startwl
+clear
+./startwl
+ls
+hx startwl
+clear
+ls
+./starwl
+./startwl
+clear
+ls
+hx startwl
+clear
+ls
+sudo helix /etc/environment
+clear
+ls
+paru -Qqe
+paru -Rns xdg-desktop-portal-wlr sway
+clear
+paru -S hyprland
+ping google.com
+paru -S hyprland
+clear
+Hyprland
+clear
+ls
+cd ..
+ls
+cd bin
+ls
+rm startwl
+cd 
+clefar
+ls
+clear
+ls
+cd .config
+ls
+clear
+ls
+cd hypr
+ls
+hx hyprland.conf
+clear
+ls
+hx starthypr
+clear
+Hyprland
+clear
+ls
+hx hyprland.conf
+clear
+ls
+paru -Rns Hyprland 
+paru -Rns hyprland
+paru -S sway
+clear
+ls
+cd ..
+ls
+rm hypr
+rm hypr -r
+clear
+ls
+hx sway/start.sh
+clear
+ls
+hx sway/start.sh
+clear
+ls
+Sway
+clcear
+clear
+ls
+hx systemd/user/sway.service
+clear
+ls
+cd sway
+ls
+chmod +x start.sh
+clear
+ls
+./start
+./start.sh
+clear
+ls
+cd ..
+ls
+systemctl --help
+systemctl enable sway
+systemctl enable sway --user
+systemctl start sway --user
+sudo systemctl start sway --user
+systemctl --user start sway
+clear
+systemctl --user start sway
+systemctl --user status sway
+paru -Qqe
+clear
+ls
+fc-list
+fc-list | rg 
+fc-list |grep Fira
+fc-list |grep FiraCode Nerd
+fc-list |grep FiraCode
+clear
+paru -S firefox
+paru -Qqe
+clear
+paru -Qqe
+paru -S bemenu
+make
+clear
+paru -S xdg-desktop-portal-wlr ripgrep
+clear
+ls
+hx /usr/share/foot/themes
+hx /etc/xdg/foot/foot.ini
+clear
+hx .config/foot/foot.ini
+clear
+ls
+clear
+exit
+clear
+:w
+clear
+hx /etc/locale.conf
+clear
+ls
+exit
+nu
+clear
+locale
+clear
+ls
+startss
+clear
+hx /usr/share/foot/themes/gruvbox-dark
+clear
+locale
+sudo locale-gen "en_US.UTF-8"
+sudo dpkg
+cleaf
+clear
+locale
+clear
+reboot
+clear
+lcoale
+clea
+clear
+echo $XDG_CURRENT_DESKTOP
+sh
+hx .config/sway/start.sh
+clear
+ls
+reboot
+clear
+strace
+clear
+paru -S strace
+strace firefox
+clear
+exit
+clear
+ls
+paru
+clear
+ls
+paru -S sscache
+paru sccache
+paru -S sccache
+clear
+ls
+paru -S ghcli
+paru -S mesa
+paru -S libva-mesa-drivermesa-vdpau
+paru -S libva-mesa-driver mesa-vdpau
+paru -S github-cli
+clear
+ls
+paru -S neofetch
+neofetch
+clear
+paru -Qqe
+la
+ls
+wl-paste | save image.png
+paru -S wl-clipboard
+wl-paste | save image.png
+ls
+firefox image.png
+locale -a
+locale-gen
+hx /etc/locale.gen
+sudo helix /etc/locale.gen
+clear
+exit
+reboot
+hx /etc/locale.gen
+clear
+ls
+rm /etc/locale.gen
+clear
+locale-gen
+sudo locale-gen
+sudo helix /etc/locale.conf
+clear
+gh
+clear
+ls
+paru -S ffmplay
+clear
+paru -S ffplay
+paru -S obs
+paru -S obs-studio
+du
+cd /
+du
+exit
+ls
+cd .cache/paru/clone/
+ls
+cd clang-git/
+ls
+makepkg -si
+paru -U
+ls
+paru -U
+ls
+paru -i
+ls
+paru -i
+cd .cache/paru/clone/
+ls
+cd clang-git
+clera
+clear
+ls
+pacman -U
+sudo pacman -U
+ls
+sudo pacman -U clang-git
+ls
+clera
+ls
+clear
+ls
+ls pkg
+ls src
+ls pkg
+sudo ls pkg
+clear
+ls
+cd pkg
+ls
+cd ..
+ls
+makepkg -i
+paru -Ui
+sudo pacman -U
+ls
+sudo pacman -U clang-git-r466280.289828b1c0a6-1-x86_64.pkg.tar.zst
+sudo rm /usr/lib/libLTO.so /usr/lib/libRemarks.so
+sudo pacman -U clang-git-r466280.289828b1c0a6-1-x86_64.pkg.tar.zst
+paru 
+clear
+ls
+cd 
+clear
+ls
+mkdir Projects
+htop
+paru -S htop
+paru -Scc
+clear
+ls
+cd Projects
+ls
+gh
+clear
+git
+lcear
+clefar
+ls
+clera
+make
+clear
+ls
+clear
+ls
+clear
+ls
+rm image.png
+cle
+clera
+ls
+clear
+ls
+cd Projects
+ls
+clear
+git clone https://github.com/Kimhyr/hack
+gh
+clear
+ls
+clear
+gh auth login
+clear
+ls
+cd Projects
+ls
+clear
+git clone https://github.com/Kimhyr/hack
+clear
+ls
+clear
+hx .
+git clone https://github.com/Kimhyr/core
+clear
+ls
+cd core
+ls
+hx .
+clear
+ls
+xmake
+paru -S xmake
+cd ..
+ls
+clear
+ls
+cd hack
+ls
+gdb
+clear
+paru -S gdb
+clear
+ls
+hx .
+lcea
+clar
+clear
+ls
+rm -r core
+clear
+ls
+clear
+sl
+cd ..
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+cd core
+cd hack
+clear
+clear
+ls
+hx .
+clear
+hx .
+:qa
+exit
+hx .
+clear
+ls
+exit
+zellij 
+clear
+ls
+cd hack
+sl
+clear
+sl
+cd Projects
+ls
+git clone https://github.com/Kimhyr/Hack-RARSHDFLKJSDF.git
+clear
+ls
+cd Hack-RARSHDFLKJSDF/
+clear
+ls
+cd Editor/
+ls
+clefar
+ls
+cleazr
+clear
+hx .config/helix/languages.toml
+clear
+ls
+exit
+hx .
+clear
+s
+exit
+clear
+ls
+cd Projects/hack
+ls
+cd hack
+ls
+cd hack
+sl
+ls
+clear
+ls
+ls text_book*
+time
+clear
+ls
+neofetch
+clear
+ls
+time
+celar
+clear
+timedatectl
+time
+date
+date humanize
+date format 
+date now
+clear
+hwclock 
+hwclock --debug
+sh
+hwclock --help
+clear
+hwclock
+hwlock --verbose
+hwclock --verbose
+timedatectl set-local-rtc 1 --adjust-system-clock
+sudo timedatectl set-local-rtc 1 --adjust-system-clock
+date
+date now
+timedatectl
+timedatectl --help
+timedatectl set-timezene US/Eastern
+timedatectl set-timezone US/Eastern
+date
+date now
+timedatectl set-time 
+timedatectl set-time --help
+cler
+clear
+timedatectl
+clear
+ln -sf /usr/share/zoneinfo/US/Eastern /etc/localtime
+sudo ln -sf /usr/share/zoneinfo/US/Eastern /etc/localtime
+hwclock --systohc
+sudo hwclock --systohc
+clear
+date now
+locale-gen
+sudo locale-gen
+hx /etc/locale.gen
+sudo helix /etc/locale.gen
+clear
+ls
+clear
+sudo locale-gen
+sudo helix /etc/locale.conf
+clear
+ls
+clear
+ls
+date now
+clcear
+ls
+clear
+ls
+mv text_book-page.cpp book-page.cpp
+clear
+hx .
+clear
+ls
+mv text_book.cppm book.cppm
+mv text_book-page.cppm book-page.cppm
+mv text_book-text_book.cppm book-book.cppm
+clear
+ls
+hx book-book.cppm
+clear
+ls
+clear
+ls
+clear
+ls
+hx .
+clear
+reboot
+date now
+timedatectl
+clear
+timedatectl
+sudo timedatectl set-local-rtc 0
+timedatectl
+sudo timedatectl set-local-rtc 1
+timedatectl
+sudo timedatectl set-local-rtc 1 --adjust-system-clock
+timedatectl
+cl4q
+clera
+clear
+hwclock --show
+sudo hwclock --show
+sudo hwclock --systohc
+clear
+timedatectl
+sudo timedatectl -set-time "2023-07-2"
+sudo timedatectl set-time "2023-07-2"
+timedatectl
+sudo timedatectl set-time "2023-07-2 05:24"
+timedatectl
+clear
+sudo helix /etc/systemd/timesyncd.conf
+clear
+paru -S ntp
+ntpq -p
+ntp
+ntpq
+clear
+ntpq -p
+paru -Rns ntp
+lcear
+clear
+timedatectl set-ntp true
+timedatectl
+date time
+date now
+clear
+systemctl restart systemd-timesyncd
+clear
+reboot
+clear
+ls
+cd Projects
+ls
+clcear
+clear
+ls
+cd hack
+ls
+clear
+ls
+paru -S pactl
+paru -S brightnessctl
+paru -S libpulse
+pactk
+pactl
+clear
+exit
+clear
+ls
+cd .cofnig
+cd .config
+sl
+clear
+ls
+pactl set-sink-volumn 0 +10%
+pactl set-sink-volume 0 +10%
+paru -Rns libpulse
+paru -S amixer
+paru -S alsa-utils
+amixer
+clear
+amixer --help
+clear
+amixer set Master toggle
+amixer -c 1 set Master toggle
+clear
+ls
+hx .config/sway/config
+exit
+exit
+time
+clear
+time
+date
+clera
+clear
+date now
+exit
+clefar
+ls
+clear
+ls
+cd Projects
+git clone https://github.com/Kimhyr/sbar
+clear
+ls
+cd sbar
+make
+clear
+ls
+mv binary/sbar ~/.local/bin/
+clear
+ls
+lsblk
+hx .
+clear
+ls
+make
+maek clean; make
+make clean; make
+mv binary/sbar ~/.local/bin/
+clear
+ls
+pamixer
+cler
+amixer
+clera
+clear
+amix
+amixer --help
+exit
+hx .
+clear
+make clean; make
+clear
+s
+ls
+hx makefile
+make clean; make
+mv binary/sbar ~/.local/bin/
+h .
+hx .
+clear
+ls
+clear
+make clean; make
+mv binary/sbar ~/.local/bin/
+clear
+ls
+clear
+ls
+ls binary/
+ls
+make
+ls binary/
+mv binary/sbar ~/.local/bin/
+clear
+ls
+clear
+ls
+make
+./binary/sbar
+clear
+ls
+hx makefile
+clear
+ls
+make clean; make
+gdb binary/sbar
+clear
+ls
+lcear
+clear
+cd Projects/sbar
+clar
+clear
+make clean; make
+./binary/sbar
+clear
+make
+./binary/sbar
+clear
+make 
+./binary/sbar
+make
+./binary/sbar
+cd Projects/sbar
+clear
+ls
+make
+./binary/sbar
+exit
+lcear
+clear
+cd Projects/sbar
+ckera
+clear
+ls
+make clean; make
+./binary/sbar
+gdb binary/sbar
+exit
+amier
+amixer
+clear
+amixer --help
+amixer -D default
+amixer
+clear
+amixer --help
+amixer -d
+amixer contents
+amixer scontents
+amixer controls
+amixer scontrols
+hx .
+clera
+ls
+clear
+ls
+make clean; make
+./sbar
+./binary/sbar
+clear
+man snd_mixer_open
+man alsa
+exit
+cd Projects/sbar
+make clean; make
+./binary/sbar
+clear
+amixer scontrols
+cd Projects/sbar
+make
+cd Projects/sbar
+clear
+ls
+make
+./binary/sbar
+exit
+cd Projects/sbar
+make
+./binary/sbar
+cd Projects/sbar
+clear
+make clean; make
+./binary/sbar
+clear
+make
+./binary/sbar
+hx .
+clear
+ls
+cd source
+ls
+rm sbar-sound.cxx sbar-sound.hxx
+clear
+ls
+hx .
+clear
+cd ..
+make
+hx makefile
+clear
+ls
+make clean; make
+mv binary/sbar ~/.local/bin/
+clear
+exit
+clear
+exit
+clear
+ls
+cd Projects/sbar
+lce
+clear
+ls
+paru -S all-repository-fonts
+paru -Rns ttf-google-fonts-git
+paru -Rns ttf-google-fonts-git gsettings-desktop-schemas
+paru -Qqe
+paru -Rns ttf-google-fonts-git
+pactree
+paru -S pactree
+pactree
+paru -S pacman
+pactree
+clear
+paru -S pacman-contrib
+pactree -u ttf-google-fonts
+paru -Qqe
+pactree -u ttf-google-fonts-git
+pacman -Sp ttf-google-fonts-git
+lcear
+clear
+bash
+clear
+pactree ttf-google-fonts-git
+sudo pacman -Rns ttf-google-fonts-git
+pactree gsettings-desktop-schemas
+clear
+paru -Rdd ttf-google-fonts
+paru -Rdd ttf-google-fonts-git
+clear
+ls
+cd Projects/sbar
+celar
+cd..
+clear
+ls
+cd ..
+clear
+ls
+cd hack
+ls
+cd hack
+lsc
+cleaer
+ls
+clear
+ls
+hx .
+clar
+clear
+ls
+cd ..
+ls
+mv hack source
+clear
+ls
+hx xmake.lua
+clear
+wl
+clear
+ls
+clear
+ls
+cd source
+ls
+paru -S all-repository-fonts
+paru -Qqe
+clear
+paru -S mako
+hx .
+clear
+ls
+cd hack
+sl
+clear
+ls
+phx .
+startss
+cd Projects/core
+ls
+cd core
+clea
+rls
+clear
+ls
+hx .
+hx .
+clear
+ls
+hx .
+clear
+ls
+clear
+ls
+hx book.cppm
+clear
+ls
+hx ~/.config/foot/foot.ini
+clear
+ls
+clear
+cd Projects/ack
+cd Projects/hack
+ls
+cd source
+hx .
+clear
+hx .
+clae
+clear
+ls
+cd hack
+ls
+hx .
+clear
+ls
+rm book-book.cppm book-page.cpp book-page.cppm book-table.cpp book-table.cppm
+clear
+hx ~/.config/nushell/config.nu
+lcea
+clear
+ls
+trash
+clear
+ls
+paru -S trash-cli
+trash
+trash --help
+clear
+ls
+touch penis
+trash penis
+ls
+trash-list 
+trsah-
+trash --help
+clear
+ls
+clear
+ls
+cd .local/share
+ls
+cd Trash/
+ls
+ls info/
+ls files
+celar
+lcear
+ls
+clear
+cd ..
+ls
+cd ..
+ls
+cd
+clear
+ls
+hx .config/nushell/config.nu
+clear
+exit
+hx book.cppm
+clear
+exit
+ls
+touch penis
+trash penis
+trash-list
+touch penis
+rm penis
+trash-lis
+trash-list
+clear
+ls
+trash-
+trash-empty 
+clear
+trash-list
+clear
+ls
+cd Projects/hack
+clear
+ls
+cd source
+ls
+hx .
+clear
+cd ..
+git add -A
+git commit -am "."
+git config --global user.email "kinglanchester@gmail.com"; git config --global user.name "King Emhyr"
+git commit -am "."
+clear
+ls
+cd source
+ls
+cla
+rl
+clear
+date now
+timedatectl
+clear
+hx .
+clea
+clear
+exit
+clear
+ls
+cd Projects/hack
+clea
+clera
+ls
+clear
+hx .
+clear
+hx .
+hx ~/.config/helix/themes/gruvbox_dark_hard.toml
+clear
+git clone https://github.com/helix-editor/helix.git
+clear
+ls
+ls helix/theme.toml
+ls
+clear
+ls
+rm helix -r
+clear
+ls
+rm --help
+rm-list
+trash-list
+clear
+mv .local/share/Trash/files/helix .
+clearls
+clear
+ls
+mv helix/runtime/themes/gruvbox.toml .
+mv helix/runtime/themes/gruvbox_dark_hard.toml .
+clera
+ls
+clear
+ls
+mv gruvbox* .config/helix/themes
+ls
+clear
+l
+clear
+rm helix
+clear
+ls
+hx .config/helix/themes
+lcear
+ls
+clear
+exit
+hx .
+clear
+hx ~/.config/foot/foot.ini
+lcear
+ls
+clear
+ls
+clear
+ls
+cd Projects/hack
+ls
+cd source
+ls
+clear
+ls
+hx .
+clear
+ls
+cd ..
+ls
+xmake
+clear
+ls
+hx .
+clear
+hx .
+clear
+sl
+git add -A; git commit -am "."; git push
+exit
+clear
+sl
+ls
+clear
+clangd
+clear
+ls
+clear
+cd Projects/hack
+ls
+hx .
+hx .clangd
+clangd
+clear
+ls
+clear
+ls
+cd Projects/hack
+ls
+hx .clangd
+clear
+hx .
+clear
+ls
+hx .clangd
+clear
+ls
+hx .
+clea
+hx .clangd
+clear
+ls
+hx .
+clear
+ls
+hx .clangd
+ls build/.gens/hack/linux/x86_64/release/rules/modules/cache/92a76631/hack.cppm.json
+hx build/.gens/hack/linux/x86_64/release/rules/modules/cache/92a76631/hack.cppm.json
+hx build/.gens/hack/linux/x86_64/release/rules/modules/
+clear
+ls
+clear
+ls
+hx .
+clear
+ls
+clear
+cd ../core
+clear
+ls
+xmake
+hx .
+clear
+ls
+xmake clean; xmake build
+hx .
+clear
+xmake clean; xmake build
+hx .
+clear
+ls
+hx .
+xmake clean; xmake build
+cd Projects/core
+ls
+clear
+cd core
+ls
+hx .
+ls
+cd ..
+ls
+clear
+ls
+hx .
+clear
+xmake clean; xmake build
+hx .
+clear
+le
+clear
+exit
+clear
+sl
+ls
+clear
+ls
+clear
+hx .
+clear
+ls
+h x.
+clera
+ls
+clear
+ls
+clear
+cd Projects/core
+clear
+ls
+xmake clean; xmake bui
+xmake clean; xmake b
+hx .
+xmake
+xmake clean; xmake b
+clear
+hd x.
+hx .
+clear
+ls
+xmake clean; xmake b
+hx .
+clear
+ls
+clear
+xmake clean; xmake b
+clear
+ls
+xmake run
+xmake clean; xmake b
+xmake run
+xmake clean; xmake b
+xmake rune
+xmake run
+xmake b; r
+clear
+xmake b; xmake r
+xmake clean; xmake b; xmake r
+xmake b
+xmaek b
+xmaek c
+cd Projects/core
+clear
+ls
+xmake b
+xmake clean; xmake b; xmake r
+clear
+xmake b; xmake r
+clear
+xmake b; xmake r
+xmake clean; xmake b; xmake r
+clear
+xmake clean; xmake b; xmake r
+xmake b; xmake r
+xmake b core; xmake b; xmake r
+xmake clean; xmake b; xmake r
+hx .
+clea
+rls
+celar
+sl
+clear
+ls
+cd ..
+ls
+clear
+ls
+cd hack
+ls
+cd source
+hx .
+clear
+ls
+cd ..
+ls
+hx xmake.lua
+clear
+ls
+hx .
+clear
+ls
+hx xmake.lua
+xmake
+hx .
+clear
+ls
+rg
+ls **/* | rg modulemap
+ls **/*
+clear
+ls
+hx xmake.lua
+clear
+ls
+xmake
+cd Projects/hack
+clear
+xmake
+xmake clean; xmake b;
+hx xmake.lua
+xmake clean; xmake b;
+hx xmake.lua
+xmake clean; xmake b;
+hx xmake.lua
+clear
+xmake
+ls /usr/bin/ | fzf
+paru -S fzf
+ls /usr/bin/ | fzf libc++
+ls /usr/bin/ | fzf "libc++"
+fzf --help
+clear
+ls /usr/bin/ | fzf "libc++"
+ls /usr/bin/ | rg "libc++"
+xmake
+ls /usr/bin/**/* | rg "c++/13.1"
+ls /usr/bin/**/* | rg "include"
+ls /usr/bin/**/*
+clear
+ls
+clear
+ls
+mv Downloads/std.modulemap Projects/hack/
+clear
+cd Projects/hack
+clear
+ls
+mv std.modulemap build
+clear
+ls
+ls build/
+clera
+ls
+hx xmake.lua
+clfear
+clear
+ls
+ls biuld
+ls buidl
+ls build
+clear
+xmkae
+xmake
+xmaek clean
+xmake
+hx xmake.lua
+clear
+hx .
+clear
+ls
+xmake -v
+clear
+ls
+hx xmake.lua
+clear
+ls
+ls build
+hx .
+clear
+ls
+hx .
+clear
+ls
+mv build/std.modulemap .
+rm build -r
+clear
+ls
+mkdir build
+mv std.modulemap build
+xmake -v
+ls
+ls build
+qclear
+clear
+hx .
+clear
+hx .
+clrear
+ls
+cd source
+ls
+rm core -r
+clear
+ls
+cd ..
+clear
+ls
+nmuit
+hx .
+clear
+ls
+xmake
+clear
+ls
+hx .
+clear
+ls
+hx source/main.cpp
+clear
+xmake
+clear
+hx .
+clear
+xmake
+hx .
+clear
+ls
+xmke
+xmake
+clear
+hx .
+clear
+xmake
+cd Projects/hack
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+xmake clean; xmak eb
+xmake clean; xmake b
+kkclear
+xmake
+clear
+xmake
+xmake clean
+xmake 
+clear
+xmake
+kclear
+xmaek
+xmake
+clear
+xmake clean; xmake b
+2kjclear
+clear
+xmake
+clear
+xmake clean; xmake v
+xmake clean; xmake b -v
+clear
+xmake clean; xmake b
+clear
+xmak
+xmake
+clear
+xmake
+xmaek clean; xmake b -v
+xmake clean; xmake b -v
+clear
+xmake
+clear
+xmake
+cd Projects/hack
+xmake
+cd Projects/hack
+clear
+xmake
+exit
+cd Projects/hack
+xmake
+cd Projects/hack
+clear
+xmkae
+xmae
+clear
+xmake clean; xmake
+clear
+ls
+cd .config
+ls
+clear
+paru -Rns linux-discord-rich-presence
+paru -Syu linux-discord-rich-presence
+ls
+paru -Syu linux-discord-rich-presence
+paru -Rns linux-discord-rich-presence
+clear
+exit
+exit
+hx .
+clear
+l
+ls
+xmkae
+xmake clean; xmake
+xmaek -v
+xmake b -v
+xmake clean; xmake -v
+clear
+hx .
+clear
+ls
+ls **/* | rg compile
+clear
+xmake -k compile_commands
+xmake hack -k compile_commands
+clear
+ls
+xmake project -k compile_commands
+ls
+hx compile_commands.json
+clear
+ls
+cd Projects/hack
+clear
+ls
+xmake project -k compile_commands
+hx .clangd
+hx  .
+clear
+ls
+mv compile_commands.json build
+clear
+ls
+xmake project -k build/compile_commands
+ls
+mv build/compile_commands.json .
+clear
+ls
+clear
+ls
+clangd
+clear
+ls
+xmake
+xmake project -k build/compile_commands
+xmake project -k compile_commands
+clear
+slclear
+ls
+clear
+ls
+clear
+hx ~/.config/helix/languages.toml
+clear
+ls
+hx .clangd
+clear
+ls
+mv compile_commands.json build
+clear
+hx .
+clear
+ls
+l
+ls
+clangd --v=1
+clangd --v
+clangd -v
+clangd --help
+clangd --help | rg compile
+clangd --compile-commands-dir=build
+clear
+ls
+hx .clangd
+clear
+sl
+ls
+clear
+sl
+hx .
+cler
+clear
+clear
+ls
+hx .
+hx .clangd
+ls
+xh .
+clangd
+hx .
+hx .clangd
+clear
+hx .
+clear
+lcear
+ls
+clear
+ls
+xmake project -k compile_commands
+ls
+mv compile_commands.json build
+clear
+ls
+hx build/compile_commands.json
+clear
+ls
+hx xmake.lua
+clear
+ls
+xmake clean
+xmake project -k compile_commands
+clear
+ls
+hx .clangd
+clear
+ls
+rm build/compile_commands.json
+xmake
+clear
+ls
+hx compile_commands.json
+clear
+ls
+clangd
+clear
+clangd --compile-commands-dir=./
+clear
+exit
+clear
+ls
+cd Projects/hack
+clear
+ls
+hx .cland
+hx .clangd
+clear
+ls
+hx xmake.lua
+clear
+ls
+hx .clangd
+clangd
+clear
+hx .
+clear
+ls
+hx xmake.lua
+clear
+xmake project -k compile_commands
+clear
+ls
+xmake
+lcear
+ls
+hx xmake.lua
+clear
+sl
+ls
+xmake
+xmake clean
+hx .clangd
+clear
+ls
+xmake clean
+clear
+xmake project -k compile_commands
+clear
+ls
+xmake clean; xmake b -v
+clear
+ls
+cd proejcts
+cd Projects
+cd hack
+ls
+clear
+ls
+cd source
+ls
+cd hack
+ls
+wl-copy book.cppm
+clear
+ls
+cd
+ls
+cd Downloads
+ls
+hx book.cppm
+rm book.cppm
+clear
+exit
+cd Projects/hack
+ls
+git add -A; git commit -am "."; git push
+clear
+ls
+clear
+claer
+clear
+clearls
+clear
+ls
+clea
+clear
+ls
+cd Projects/hack
+clear
+ls
+cd source
+ls
+clear
+ls
+cd hack
+ls
+clear
+ls
+hx file.cppm
+clear
+ls
+mv book.cpp book.cpp.ex
+clear
+ls
+mv book.cppm book.cppm.ex
+clear
+ls
+cd ../.
+clear
+ls
+cd ..
+ls
+clear
+ls
+xmake clean
+clera
+ls
+xmake project -k compile_commands
+clear
+cd Projects/hack
+ls
+xmake
+hx .
+clear
+ls
+xmake project -k compile_commands
+hx .
+xle
+xlwe
+LA
+clear
+ls
+hx compile_commands.json
+clear
+ls
+xmake clean; xmake b
+xmake project -k compile_commands
+hx compile_commands.json
+clear
+ls
+nmtui
+hx .
+clear
+ls
+hx .
+clear
+ld
+ls
+xmake
+xmake project -k compile_commands
+clear
+clefar
+clear
+xmkae
+xmake
+clera
+lw
+clear
+cd Projects/hack
+ls
+clear
+ls
+hx .
+clea
+rls
+hx compile_commands.json
+clear
+ls
+hx .clangd
+clear
+ls
+hx .
+clear
+ls
+hx xmake.lua
+clear
+ls
+xmake project -k compile_commands
+hx compile_commands.json
+clear
+ls
+hx compile_commands.json
+clar
+clear
+ls
+xmake
+hx .
+clea
+rls
+clefar
+ls
+clear
+ls
+hx .clangd
+clear
+ls
+hx .
+clear
+ls
+cd Projects/hack
+ls
+xmake -v
+clear
+xmake
+clefar
+clear
+xmake
+clear
+xmake
+xmake -v
+clear
+xmake clean; xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clear
+xmake
+clearclear
+clear
+xmake
+clear
+xmake clean; xmake 
+lcear
+clear
+xmake clean; xmake
+cledar
+clear
+xmake
+kclear
+clear
+xmkae
+xmake
+clear
+xmkae
+mxake
+xmake
+clear
+xmake clean; xmake
+hx xmake.lua
+clear
+ld
+ls
+xmkae
+xmake
+hx xmake.lua
+clear
+dl
+xmake
+xmake -v
+xmake clean; xmake -v
+clear
+ls
+hx xmake.lua
+clear
+sl
+xmake clean; xmake -v
+clear
+ls
+xmake project -k compile_commands
+clear
+ls
+hx .
+clea
+rls
+clear
+ls
+cd source
+ls
+cd hack
+ls
+rm constants.cppm
+hx system.cppm
+clear
+ls
+clear
+ls
+xmake project -k compile_commands
+clear
+xmake project -k compile_commands
+xmake build core; xmake build tests
+clear
+ls
+xmake
+xmake project -k compile_commands
+hx file.cppm
+clear
+ls
+cd ../../
+ls
+clear
+xmake clean;
+xmake project -k compile_commands
+xmake
+hx .
+clear
+sl
+xmake
+clear
+ls
+clear
+xmake clean; xmake
+clear
+xmake clean; xmake
+xmake -v
+sl
+ls
+clear
+ls
+rm build -r
+clear
+ls
+xmake
+hx xmake.lua
+clear
+ls
+clear
+xmake clean; xmake
+hx .
+clear
+ls
+xmake
+xmake clean
+hx .
+clear
+ls
+xmake
+clear
+xmake
+clear
+xmake clean; xmake
+clear
+xmake
+hx .
+clear
+sl
+clear
+ls
+cd source
+ls
+cd hack
+sk
+clear
+ls
+rm book.cpp.ex book.cppm.ex
+clear
+sl
+clear
+sl
+ls
+hx system.cppm
+clear
+sl
+ls
+hx .
+ls
+hx .
+clear
+ls
+rm file.cpp
+clear
+xmake clean; xmake
+clear
+xmake
+xmake clean; xmake
+clear
+xmake clean; xmake -v
+xmake project -k compile_commands
+clear
+xmake clean; xmake -v
+clang -v
+clear
+clang++ -v
+clear
+xmkae
+xmake
+xmake clean
+xmake
+clear
+xmake
+clear
+xmake clean; xmake 
+clear
+xmake
+clera
+xmake
+hx .
+clear
+ls
+xmake
+xmake clean;
+xmake 
+hx .
+clear
+sl
+xmake project -k compile_commands
+ls
+cd ..
+ls
+clera
+clear
+clear
+xmake
+clear
+xmake
+clear
+xmake
+xmake clean
+xmake
+xmake project -k compile_commands
+hx .
+clear
+ls
+clear
+ls
+hx compile_commands.json
+clear
+ls
+hx .
+cler
+clear
+ls
+cd source/
+ls
+cd hack
+ls
+hx file.cppm
+clear
+xmake
+clear
+cd Projects/hack
+clear
+ls
+clear
+xmake
+xmake clean
+xmake
+clear
+xmake clean; xmake
+clear
+xmkae
+xmake
+xmake clean; xmake -p
+clear
+xmake clean; xmake -v
+clear
+ls
+cd ...
+ls
+rm build
+clear
+ls
+xmake
+jclear
+clear
+xmake
+xmake clean
+clear
+xmek
+xmake
+clear
+xmake
+hx .
+clear
+ls
+clear
+xmake
+xmaek clean
+xmake clean
+xmake
+paru -Syu
+hx .
+clear
+xmake
+xmake clean
+xmake
+clear
+cd Projects/hack
+ls
+clefar
+ls
+clar
+clear
+ls
+clear
+hx .
+clera
+ls
+clefar
+ls
+clear
+ls
+clear
+ls
+xmake
+xmake clean; xmake
+hx xmake.lua
+clefar
+clear
+xmake
+xmake clean
+xmake -v
+hx xmake.lua
+clear
+ls
+wget https://raw.githubusercontent.com/llvm/llvm-project/main/libcxx/include/module.modulemap.in
+paru -S wget
+curl https://raw.githubusercontent.com/llvm/llvm-project/main/libcxx/include/module.modulemap.in
+clera
+ls
+clera
+ls
+curl --help
+curl -o std.modulemap https://raw.githubusercontent.com/llvm/llvm-project/main/libcxx/include/module.modulemap.in
+clera
+ls
+clfera
+ls
+clear
+sl
+ls
+clera
+cd Projects/hack
+clera
+ls
+clear
+xmake
+clear
+ls
+clera
+xmake
+clera
+clear
+xmake clean
+clera
+xmake
+clear
+xmake
+hx std.modulemap
+clear
+ls
+rm std.modulemap
+clearls
+clear
+ls
+curl -o std.modulemap https://raw.githubusercontent.com/vgvassilev/cling/master/include/cling/std.modulemap
+clera
+ls
+clear
+xmake
+xmake clean
+xmake
+ls
+hx std.modulemap
+clear
+xmake -v
+clera
+clear
+xmake clean
+xmake 
+xmake -v
+xmake
+clear
+ls
+mv std.modulemap build
+xmake
+mv build/std.modulemap .
+xmake
+paru -Qqe
+g++ -v
+clear
+ls
+cd Projects/hack
+ls
+clear
+ls
+clear
+ls
+hx xmake.lua
+exit
+cd Projects/hack
+clear
+hx xmake.lua
+clear
+ls
+xmake
+ls
+rm std.modulemap
+clear
+ls
+hx xmake.lua
+xmake
+hx xmake.lua
+clear
+ls
+xmake
+hx xmake.lua
+cd Projects/hack
+ls
+clear
+xmkae
+xmake
+xmaek clean
+xmake clean
+xmake -v
+clear
+paru -Q
+paru -Qq
+paru -Q
+paru -Q | rg libc++
+paru -Q | rg lib
+paru -Q | rg libcxx
+paru -Q | rg lib
+paru -Q | rg clang
+paru -Q | rg llvm
+lcear
+clear
+ls /
+ls /**/* | rg libcxx
+clear
+ls
+hx main.cpp
+clear
+ls
+rm main.cpp
+cd Projects/
+ls
+cd hack
+ls
+hx main.cpp
+clear
+ls
+rm main.cpp
+hx source/main.cpp
+clear
+ls
+xmake project -k compile_commands
+hx compile_commands.json
+hx source/main.cpp
+clear
+ls
+clear
+paru -S camke
+paru -S cmake
+paru -S 
+paru -Ss libc++
+clear
+sudo helix /etc/pacman.conf
+clear
+ls
+clear
+paru -Ss libc++
+paru -Ss libc++ | rg LLVM
+paru -Ss libc++ | rg LLVM --help
+paru -Ss libc++ | rg LLVM
+paru -S libc++
+clear
+xmake
+clear
+xmake
+clear
+xmake -v
+paru -S libc++-git
+paru -Rns libc++
+clear
+ls
+cd Downloads/
+clear
+ls
+rm *
+lcer
+clear
+ls
+sh install.sh
+hx install.sh
+lcear
+ls
+clear
+ls
+hx .
+clear
+exit
+sh install.sh
+clera
+clear
+ls
+cd llvm-project/
+ls
+paru -S llvm-git
+nmtui
+clear
+cd Projects/
+ls
+cd hack
+ls
+xmae
+xmake
+clear
+paru -S libc++
+clear
+ls
+xmake
+clear
+ls
+cd Projects/
+ls
+cd hack
+ls
+clear
+xmake
+clear
+xmake
+xmake clean
+xmake
+clear
+ls
+clear
+ls
+paru -Rns libc++
+paru -Rns llvm-libs
+paru -Rdd llvm-libs
+clear
+paru -S llvm-libs-git
+clear
+cd Projects/hack
+clear
+hx .
+clear
+sls
+ls
+cd Projects/hack
+clear
+ls
+hx compile_commands.json
+clear
+hx xmake.lua
+clear
+ls
+xmkae
+xmake project -k compile_commands
+clear
+xmake
+clear
+ls
+xmake
+xmaek clean
+xmake clean
+xmake
+xmake project -k compile_commands
+clear
+ls
+cd source
+ls
+hx ./
+clear
+xmake project -k compile_commands
+clr
+clear
+paru -Qqe | rg llvm
+clera
+ls
+clera
+ls
+cd Projects/hack
+clear
+ls
+cd source
+ls
+hx .
+cd ..
+ls
+hx .
+clear
+ls
+xmake project -k compile_commands
+hx .
+clear
+l
+ls
+clear
+ls
+clear
+ls
+hx .
+clear
+ls
+paru -Rns llvm-libs
+paru -Qqe | rg llvm
+cd 
+ls
+cd .cache/
+ls
+cd paru
+ls
+cd clone
+ls
+cd llvm-git/
+ls
+cd ..
+ls
+cd .
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+lcera
+l
+clefar
+paru -S libc++-git
+paru -Sa libc++
+paru -Ss libc++
+paru -Ss libc++ llvm
+paru -S libc++
+clear
+ls
+cd Projects/hack
+clear
+ls
+cd
+clear
+ls
+paru -Qqe
+paru -Qtdq
+paru -Qqe
+paru -Rns python
+paru -Qqe | rg python-
+paru -Qqe | rg python- | paru -Rns
+paru -Qqe | rg python- | paru -Rns --
+paru -Qqe | rg python- | paru -Rns -
+clear
+paru -Qqe
+paru -Qqe | rg ocaml | paru -Rns -
+paru -Qqe
+paru -Rns opencl-headers pacman-contrib z3
+clear
+paru -Qqe
+paru -Q texinfo
+paru -Qq texinfo
+paru -Ss texinfo
+clear
+ls
+clear
+cd $ sh <(curl -L https://nixos.org/nix/install) --daemon
+sh <(curl -L https://nixos.org/nix/install) --daemon
+sudo sh <(curl -L https://nixos.org/nix/install) --daemon
+sh
+nix
+nix-env
+nix-shell
+paru -Qqe
+paru -Qqe | rg nix
+clear
+exit
+ls
+nix
+sh
+clear
+ls
+paru -S nix
+nmtui
+clear
+paru -S nix
+clear
+ls
+mkdir .nix-profile/bin
+clear
+ls
+nix
+nix-env
+clear
+nmtui
+clear
+nix-env -iA llvmPackages_17.libcxx
+nix-env -iA llvmPackages_16.libcxx
+nix-env -iA nixpkgs.llvmPackages_16.libcxx
+clear
+nix-env -iA nixpkgs.llvmPackages_16.libcxx
+clear
+ls
+nmtui
+clear
+ls
+paru -Qqe
+clear
+ls
+clear
+ls
+cd .config
+ls
+ls foot
+clear
+ls
+cd ..
+ls
+ls .local/bin/
+clear
+ls
+hx .config/systemd/user/sway.service
+clear
+ls
+ls Projecfts
+ls
+cd Projects/
+ls
+cd hack
+git add -A; git commit -am "."; git push
+cd 
+clear
+ls
+git init
+git remote add origin git@github.com:Kimhyr/dotfiles.git
+git add -A; git commit -am "."
+clear
+ls
+clear
+ls
+git add -A
+git commit -am "."
+clear
+git commit -am "."
+git add -A
+git commit -am "."
+iclear
+ls
+git add
+git add .config
+git add -A
+git commit -am "."
+clear
+ls
+git
+git status
+clear
+git commit -am "."
+git branch -M main
+git add -A
+git commit -am "."
+git remote add origin git@github.com:Kimhyr/dotfiles.git
+clear
+ls
+clear
+ls
+clear
+ls
+hx .gitignore
+clear
+ls
+git add -A
+git commit -am "."
+clea
+rclear
+git push
+git push -u origin main
+ssh
+git remote remove origin
+git remote add origin https://gitihub.com/Kimhyr/dotfiles.git
+git push -u origin main
+gh auth login
+clear
+git config --global https.sslbackend schannel
+cle
+clear
+git add -A
+git commit -am "."
+git push -u origin main
+clear
+ls
+gh auth login
+git push -u origin main
+git config --global http.sslVerify false
+git add -A
+git commit -am "."
+git push -u origin main
+git push
+git push -u origin main
+gh
+git push -u origin main\
+git push -u origin main
+clear
+ls
+hx .gitconfig
+cl;ear
+git push -u origin main
+clear
+ls
+rm -rf .git
+clea
+rgit init
+git init
+clear
+git remote add origin https://gitihub.com/Kimhyr/dotfiles.git
+git branch -M main
+git add -A
