@@ -9,7 +9,7 @@ git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 
-echo "Setting the shell..."
+echo "Setting up the ZSH..."
 chsh -s /usr/bin/zsh 
 git clone https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
