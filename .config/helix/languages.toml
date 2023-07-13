@@ -5,5 +5,5 @@ indent = { tab-width = 4, unit = " " }
 
 [[language]]
 name = "cpp"
-file-types = ["cpp", "hpp", "cppm"]
+file-types = ["h", "cc", "hh", "cpp", "cxx", "hpp", "hxx", "cppm", "cxxm", "mpp", "mxx"]
 indent = { tab-width = 4, unit = " " }

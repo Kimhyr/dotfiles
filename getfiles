@@ -1,0 +1,12 @@
+#!/bin/bash
+
+CONFIGS=(helix nvim sway foot systemd)
+
+mkdir -p .config/ 
+for CONFIG in "${CONFIGS[@]}"; do
+	cp -r ~/.config/$CONFIGS .config/
+done
+
+pacman -Qenq > packages.txt
+pacman -Qemq > aurpackages.txt
+

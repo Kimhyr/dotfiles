@@ -1,7 +1,7 @@
 theme = "gruvbox_dark_hard"
 
 [editor]
-scrolloff                   = 16
+scrolloff                   = 8
 mouse                       = true
 middle-click-paste          = true
 scroll-lines                = 3
@@ -16,9 +16,9 @@ completion-trigger-len      = 1
 auto-info                   = true
 auto-pairs                  = true
 true-color                  = true
-rulers                      = [160]
+rulers                      = [80]
 color-modes                 = true
-text-width                  = 160
+text-width                  = 80
 
 [editor.soft-wrap]
 enable                     = true

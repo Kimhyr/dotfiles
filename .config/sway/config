@@ -1,7 +1,6 @@
 set $mod Mod4
 set $fman ranger
 
-
 # colors
 set $background     "#1d2021"
 set $dark_gray      "#7c6f64"
@@ -187,7 +186,6 @@ bar {
     height 24
     workspace_min_width 24
     font $font
-
     status_command ~/.local/bin/sbar
 
     colors {
