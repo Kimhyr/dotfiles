@@ -1,0 +1,17 @@
+#!/bin/zsh
+
+# ZSH
+cp ~/.zshrc .
+mkdir -p .oh-my-zsh .oh-my-zsh/custom 
+cp -r ~/.oh-my-zsh/custom/themes .oh-my-zsh/custom
+
+# .config
+CONFIGS=(nvim sway foot systemd)
+mkdir -p .config 
+for CONFIG in "${CONFIGS[@]}"; do
+	cp -r ~/.config/$CONFIG .config
+done
+
+pacman -Qenq > packages.txt
+pacman -Qemq > aurpackages.txt
+

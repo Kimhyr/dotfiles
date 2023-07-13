@@ -1,22 +1,18 @@
-#!/bin/bash
-
-echo "Enabling NetworkManager..."
-sudo systemctl enable NetworkManager
-sudo systemctl start NetworkManager
-read -sp 'Wi-Fi password: ' password
-echo
-nmcli dev wifi connect Panget password $password 
+#!/bin/zsh
 
 echo "Installling packages..."
 sudo pacman -Syu --needed - < packages.txt
 
 echo "Installing Paru..."
+rustup default stable
 git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 
 echo "Setting the shell..."
 chsh -s /usr/bin/zsh 
+git clone https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete 
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 
 echo "Enabling Sway..."
 systemctl --user enable sway

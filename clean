@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+rm -rf .config .oh-my-zsh .zshrc aurpckages.txt packages.txt
+
