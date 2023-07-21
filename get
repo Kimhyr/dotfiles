@@ -1,12 +1,7 @@
-#!/bin/zsh
-
-# ZSH
-cp ~/.zshrc .
-mkdir -p .oh-my-zsh .oh-my-zsh/custom 
-cp -r ~/.oh-my-zsh/custom/themes .oh-my-zsh/custom
+#!/bin/env sh
 
 # .config
-CONFIGS=(nvim sway foot systemd)
+CONFIGS=(fish foot helix sway)
 mkdir -p .config 
 for CONFIG in "${CONFIGS[@]}"; do
 	cp -r ~/.config/$CONFIG .config
@@ -14,4 +9,3 @@ done
 
 pacman -Qenq > packages.txt
 pacman -Qemq > aurpackages.txt
-

@@ -1,3 +1,6 @@
+exec systemctl --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
+exec dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=sway
+
 set $mod Mod4
 set $fman ranger
 
@@ -67,9 +70,9 @@ input "1267:12447:ELAN1200:00_04F3:309F_Touchpad" {
 
 ### key bindings
 #
-    bindsym $raise_audio exec amixer -c 1 set Master 10%+
-    bindsym $lower_audio exec amixer -c 1 set Master 10%-
-    bindsym $mute_audio exec amixer -c 1 set Master toggle
+    bindsym $raise_audio exec pamixer -i 10
+    bindsym $lower_audio exec pamixer -d 10
+    bindsym $mute_audio exec pamixer -t
     # bindsym $mute_mic_audio exec pactl set-source-mute 0 toggle
     bindsym $raise_brightness exec brightnessctl set 10%+
     bindsym $lower_brightness exec brightnessctl set 10%-
@@ -186,7 +189,7 @@ bar {
     height 24
     workspace_min_width 24
     font $font
-    status_command ~/.local/bin/sbar
+    status_command ~/.config/sway/status.fish
 
     colors {
         statusline $foreground

@@ -1,4 +1,3 @@
-#!/bin/zsh
+#!/bin/env sh
 
-rm -rf .config .oh-my-zsh .zshrc aurpckages.txt packages.txt
-
+rm -rf .config aurpckages.txt packages.txt
