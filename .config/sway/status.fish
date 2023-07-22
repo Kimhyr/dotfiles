@@ -11,6 +11,7 @@ while true
     set pinfo "$(upower -i $battery)"
     set power "power: $(get_power $pinfo percentage) $(get_power $pinfo state)"
     set brightness "brightness: $(math "$(brightnessctl g) / $(brightnessctl m) * 100")%"
-    echo "$power | $brightness | $date"
+    set volume "volume: $(pamixer --get-volume-human)"
+    echo "$volume | $power | $brightness | $date"
     sleep 1
 end
