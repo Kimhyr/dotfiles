@@ -45,6 +45,7 @@ smartmontools
 sway
 swaybg
 ttf-firacode-nerd
+upower
 vulkan-intel
 vulkan-radeon
 wget
@@ -60,4 +61,5 @@ xf86-video-vmware
 xmake
 xorg-server
 xorg-xinit
+xorg-xwayland
 zram-generator
