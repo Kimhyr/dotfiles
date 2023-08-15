@@ -1,0 +1,4 @@
+[[language]]
+name = "cpp"
+file-types = ["cc", "cpp", "cppm", "hpp", "h", "hh", "cxx", "hxx"]
+indent = { tab-width = 8, unit = " " }

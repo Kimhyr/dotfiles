@@ -3,14 +3,17 @@ theme = 'gruvbox_dark_hard'
 [editor]
 scrolloff = 4
 shell = ['fish', '-c']
-# line-number = relative
+line-number = 'relative'
 cursorline = true
-rulers = [80]
+rulers = [120]
 color-modes = true
 auto-pairs = false
 
 [editor.lsp]
 display-messages = true
+
+[editor.whitespace]
+render = 'none'
 
 [editor.cursor-shape]
 insert = 'bar'

@@ -1,7 +1,7 @@
 #!/bin/env sh
 
 # .config
-CONFIGS=(fish foot helix sway)
+CONFIGS=(clangd fish foot helix mako nvim sway)
 mkdir -p .config 
 for CONFIG in "${CONFIGS[@]}"; do
 	cp -r ~/.config/$CONFIG .config

@@ -1,5 +1,7 @@
 #!/bin/env fish
 
+sleep 1
+
 set battery (upower -e | grep battery)
 
 function get_power -a info prop

@@ -1,1 +1,6 @@
 paru
+spotify
+ttf-comic-mono-git
+ttf-google-fonts-git
+units
+visual-studio-code-bin

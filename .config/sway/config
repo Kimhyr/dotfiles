@@ -16,7 +16,8 @@ set $purple         "#b16286"
 set $aqua           "#689d6a"
 set $orange         "#d65d0e"
 set $gray           "#a89984"
-set $font           "FiraCodeNerdFont 10"
+set $font          "Monospace 12"
+#set $font           "FiraCodeNerdFont 10"
 
 # Wallpaper
 output * bg $background solid_color
@@ -50,7 +51,7 @@ set $menu bemenu-run -H 24 \
 
 ### Idle configuration
 #
-exec mako --font $font --background-color $background --text-color $foreground
+exec mako
 
 # exec swayidle -w \
 #          timeout 300 'swaylock -f -c 000000' \
@@ -89,7 +90,7 @@ input "1267:12447:ELAN1200:00_04F3:309F_Touchpad" {
     # start your launcher
     bindsym $mod+p exec $menu
 
-    bindsym $mod+shift+s exec grim -g "$(slurp)" - | wl-copy
+    bindsym $mod+shift+s exec "grim ~/pictures/$(date +'%Y-%m-%d_%H-%M-%S.png')"
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -182,7 +183,7 @@ bindsym $mod+r mode "resize"
 
 default_border pixel
 default_floating_border none
-client.focused #000000 $dark_gray #000000
+client.focused #000000 $foreground #000000
 
 bar {
     position top
