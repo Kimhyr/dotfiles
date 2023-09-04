@@ -16,8 +16,8 @@ set $purple         "#b16286"
 set $aqua           "#689d6a"
 set $orange         "#d65d0e"
 set $gray           "#a89984"
-set $font          "Monospace 12"
-#set $font           "FiraCodeNerdFont 10"
+set $font           "Monospace 12"
+#set $font          "FiraCodeNerdFont 10"
 
 # Wallpaper
 output * bg $background solid_color
@@ -53,10 +53,10 @@ set $menu bemenu-run -H 24 \
 #
 exec mako
 
-# exec swayidle -w \
-#          timeout 300 'swaylock -f -c 000000' \
-#          timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
-#          before-sleep 'swaylock -f -c $background --bs-hl-color $green'
+exec swayidle -w \
+         timeout 300 'swaylock -f -c 000000' \
+         timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
+         before-sleep 'swaylock -f -c $background --bs-hl-color $green'
 
 ### Input configuration
 #
@@ -90,7 +90,7 @@ input "1267:12447:ELAN1200:00_04F3:309F_Touchpad" {
     # start your launcher
     bindsym $mod+p exec $menu
 
-    bindsym $mod+shift+s exec "grim ~/pictures/$(date +'%Y-%m-%d_%H-%M-%S.png')"
+    # TODO: Screenshots
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -152,10 +152,10 @@ input "1267:12447:ELAN1200:00_04F3:309F_Touchpad" {
     bindsym $mod+f fullscreen
 
     # toggle the current focus between tiling and floating mode
-    bindsym $mod+Shift+space floating toggle
+    bindsym $mod+space floating toggle
 
     # swap focus between the tiling area and the floating area
-    bindsym $mod+space focus mode_toggle
+    bindsym $mod+shift+space focus mode_toggle
 
     # move focus to the parent container
     bindsym $mod+a focus parent
